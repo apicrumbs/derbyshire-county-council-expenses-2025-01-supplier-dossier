@@ -1,56 +1,66 @@
 # 🏛️ ApiCrumbs Archive: DERBYSHIRE-COUNTY-COUNCIL-EXPENSES-2025-01-SUPPLIER-DOSSIER
-![Last Sync](https://shields.io/badge/Synchronised-2026--04--08-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/44_UPDATED-emerald?style=for-the-badge)
+![Last Sync](https://shields.io/badge/Synchronised-2026--04--08-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/54_UPDATED-emerald?style=for-the-badge)
 
-📦 **Books in Shard:** 44 | 🛡️ **Tier:** PUBLIC_SNAPSHOT
-⚡ **Latest Press Run:** 44 printed / 82 skipped (up-to-date).
+📦 **Books in Shard:** 54 | 🛡️ **Tier:** PUBLIC_SNAPSHOT
+⚡ **Latest Press Run:** 54 printed / 126 skipped (up-to-date).
 
 ## 📚 Table of Contents
 | Status | Last Updated | Entity / ID | Summary Insight | Access Book |
 | :--- | :--- | :--- | :--- | :--- |
-| 🟢 | `2026-04-08 13:08:32` | **Access UK Ltd** | Ledger | [View ↗](./A/access-uk-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Adam Suffolk Flat Roofing Ltd** | Ledger | [View ↗](./A/adam-suffolk-flat-roofing-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Berry Hill Primary School** | Ledger | [View ↗](./B/berry-hill-primary-school.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Blue Square Residential Ltd** | Ledger | [View ↗](./B/blue-square-residential-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **British Telecommunications** | Ledger | [View ↗](./B/british-telecommunications.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Bss Group Plc** | Ledger | [View ↗](./B/bss-group-plc.md) |
-| 🟢 | `2026-04-08 13:08:32` | **CY4OR Legal Ltd** | Ledger | [View ↗](./C/cy4or-legal-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Chellaston Academy** | Ledger | [View ↗](./C/chellaston-academy.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Compass Minerals UK Ltd** | Ledger | [View ↗](./C/compass-minerals-uk-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Concertus Derbyshire Limited** | Ledger | [View ↗](./C/concertus-derbyshire-limited.md) |
-| 🟢 | `2026-04-08 13:08:32` | **County Fencing** | Ledger | [View ↗](./C/county-fencing.md) |
-| 🟢 | `2026-04-08 13:08:32` | **EMH Care and Support LTD** | Ledger | [View ↗](./E/emh-care-and-support-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Edf Energy Customers Ltd** | Ledger | [View ↗](./E/edf-energy-customers-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Elis UK Limited** | Ledger | [View ↗](./E/elis-uk-limited.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Everything Everywhere Ltd** | Ledger | [View ↗](./E/everything-everywhere-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **F E Khan** | Ledger | [View ↗](./F/f-e-khan.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Forest Way School** | Ledger | [View ↗](./F/forest-way-school.md) |
-| 🟢 | `2026-04-08 13:08:32` | **G D Golding Skip Hire Ltd** | Ledger | [View ↗](./G/g-d-golding-skip-hire-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Greater Manchester Independent Scho** | Ledger | [View ↗](./G/greater-manchester-independent-scho.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Helen L Williams** | Ledger | [View ↗](./H/helen-l-williams.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Huws Gray Group** | Ledger | [View ↗](./H/huws-gray-group.md) |
-| 🟢 | `2026-04-08 13:08:32` | **J C Balls And Sons LTD** | Ledger | [View ↗](./J/j-c-balls-and-sons-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Jens Xplorers Ltd** | Ledger | [View ↗](./J/jens-xplorers-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **La Petite Academy** | Ledger | [View ↗](./L/la-petite-academy.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Lets Talk** | Ledger | [View ↗](./L/lets-talk.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Lion Cars Ltd** | Ledger | [View ↗](./L/lion-cars-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Mr Faisle Rashid** | Ledger | [View ↗](./M/mr-faisle-rashid.md) |
-| 🟢 | `2026-04-08 13:08:32` | **National World Publishing Ltd** | Ledger | [View ↗](./N/national-world-publishing-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Operation Orphan** | Ledger | [View ↗](./O/operation-orphan.md) |
-| 🟢 | `2026-04-08 13:08:32` | **PHS Group Ltd** | Ledger | [View ↗](./P/phs-group-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **PartsPlus** | Ledger | [View ↗](./P/partsplus.md) |
-| 🟢 | `2026-04-08 13:08:32` | **REDACTED PERSONAL DATA** | Ledger | [View ↗](./R/redacted-personal-data.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Rise Multi Academy Trust** | Ledger | [View ↗](./R/rise-multi-academy-trust.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Servitech International Limited** | Ledger | [View ↗](./S/servitech-international-limited.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Sheffield Tachograph & Taillift** | Ledger | [View ↗](./S/sheffield-tachograph---taillift.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Sight Support Derbyshire** | Ledger | [View ↗](./S/sight-support-derbyshire.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Stoneacre Peugeot** | Ledger | [View ↗](./S/stoneacre-peugeot.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Tarmac Trading Limited** | Ledger | [View ↗](./T/tarmac-trading-limited.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Trident Housing Association Ltd** | Ledger | [View ↗](./T/trident-housing-association-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Tutors and Exams Ltd** | Ledger | [View ↗](./T/tutors-and-exams-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Veolia ES UK Ltd** | Ledger | [View ↗](./V/veolia-es-uk-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **West Park School** | Ledger | [View ↗](./W/west-park-school.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Wheelplant Ltd** | Ledger | [View ↗](./W/wheelplant-ltd.md) |
-| 🟢 | `2026-04-08 13:08:32` | **Whitworks Adventures in Theatre** | Ledger | [View ↗](./W/whitworks-adventures-in-theatre.md) |
+| 🟢 | `2026-04-08 14:23:33` | **AECOM Ltd** | Ledger | [View ↗](./A/aecom-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Access UK Ltd** | Ledger | [View ↗](./A/access-uk-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Adam Suffolk Flat Roofing Ltd** | Ledger | [View ↗](./A/adam-suffolk-flat-roofing-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Berry Hill Primary School** | Ledger | [View ↗](./B/berry-hill-primary-school.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Blue Square Residential Ltd** | Ledger | [View ↗](./B/blue-square-residential-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **British Telecommunications** | Ledger | [View ↗](./B/british-telecommunications.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Bss Group Plc** | Ledger | [View ↗](./B/bss-group-plc.md) |
+| 🟢 | `2026-04-08 14:23:33` | **CY4OR Legal Ltd** | Ledger | [View ↗](./C/cy4or-legal-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Chellaston Academy** | Ledger | [View ↗](./C/chellaston-academy.md) |
+| 🟢 | `2026-04-08 14:23:33` | **City of Derby Academy** | Ledger | [View ↗](./C/city-of-derby-academy.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Compass Minerals UK Ltd** | Ledger | [View ↗](./C/compass-minerals-uk-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Concertus Derbyshire Limited** | Ledger | [View ↗](./C/concertus-derbyshire-limited.md) |
+| 🟢 | `2026-04-08 14:23:33` | **County Fencing** | Ledger | [View ↗](./C/county-fencing.md) |
+| 🟢 | `2026-04-08 14:23:33` | **EMH Care and Support LTD** | Ledger | [View ↗](./E/emh-care-and-support-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Edf Energy Customers Ltd** | Ledger | [View ↗](./E/edf-energy-customers-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Elis UK Limited** | Ledger | [View ↗](./E/elis-uk-limited.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Everything Everywhere Ltd** | Ledger | [View ↗](./E/everything-everywhere-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **F E Khan** | Ledger | [View ↗](./F/f-e-khan.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Forest Way School** | Ledger | [View ↗](./F/forest-way-school.md) |
+| 🟢 | `2026-04-08 14:23:33` | **G D Golding Skip Hire Ltd** | Ledger | [View ↗](./G/g-d-golding-skip-hire-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Greater Manchester Independent Scho** | Ledger | [View ↗](./G/greater-manchester-independent-scho.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Helen L Williams** | Ledger | [View ↗](./H/helen-l-williams.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Huws Gray Group** | Ledger | [View ↗](./H/huws-gray-group.md) |
+| 🟢 | `2026-04-08 14:23:33` | **J C Balls And Sons LTD** | Ledger | [View ↗](./J/j-c-balls-and-sons-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Jens Xplorers Ltd** | Ledger | [View ↗](./J/jens-xplorers-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **La Petite Academy** | Ledger | [View ↗](./L/la-petite-academy.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Lets Talk** | Ledger | [View ↗](./L/lets-talk.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Lion Cars Ltd** | Ledger | [View ↗](./L/lion-cars-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Little Transport Ltd** | Ledger | [View ↗](./L/little-transport-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Matchtech Group UK Ltd** | Ledger | [View ↗](./M/matchtech-group-uk-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Mr Faisle Rashid** | Ledger | [View ↗](./M/mr-faisle-rashid.md) |
+| 🟢 | `2026-04-08 14:23:33` | **National World Publishing Ltd** | Ledger | [View ↗](./N/national-world-publishing-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Operation Orphan** | Ledger | [View ↗](./O/operation-orphan.md) |
+| 🟢 | `2026-04-08 14:23:33` | **PHS Group Ltd** | Ledger | [View ↗](./P/phs-group-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **PartsPlus** | Ledger | [View ↗](./P/partsplus.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Peter Byard Plant Hire Ltd** | Ledger | [View ↗](./P/peter-byard-plant-hire-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Precision Tree Care** | Ledger | [View ↗](./P/precision-tree-care.md) |
+| 🟢 | `2026-04-08 14:23:33` | **R Khan** | Ledger | [View ↗](./R/r-khan.md) |
+| 🟢 | `2026-04-08 14:23:33` | **REDACTED PERSONAL DATA** | Ledger | [View ↗](./R/redacted-personal-data.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Rise Multi Academy Trust** | Ledger | [View ↗](./R/rise-multi-academy-trust.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Ritz Properties** | Ledger | [View ↗](./R/ritz-properties.md) |
+| 🟢 | `2026-04-08 14:23:33` | **SWARCO UK & Ireland Ltd** | Ledger | [View ↗](./S/swarco-uk---ireland-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Servitech International Limited** | Ledger | [View ↗](./S/servitech-international-limited.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Sheffield Tachograph & Taillift** | Ledger | [View ↗](./S/sheffield-tachograph---taillift.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Sight Support Derbyshire** | Ledger | [View ↗](./S/sight-support-derbyshire.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Stoneacre Peugeot** | Ledger | [View ↗](./S/stoneacre-peugeot.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Tarmac Trading Limited** | Ledger | [View ↗](./T/tarmac-trading-limited.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Trident Housing Association Ltd** | Ledger | [View ↗](./T/trident-housing-association-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Tutors and Exams Ltd** | Ledger | [View ↗](./T/tutors-and-exams-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Veolia ES UK Ltd** | Ledger | [View ↗](./V/veolia-es-uk-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Victoria Frost** | Ledger | [View ↗](./V/victoria-frost.md) |
+| 🟢 | `2026-04-08 14:23:33` | **West Park School** | Ledger | [View ↗](./W/west-park-school.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Wheelplant Ltd** | Ledger | [View ↗](./W/wheelplant-ltd.md) |
+| 🟢 | `2026-04-08 14:23:33` | **Whitworks Adventures in Theatre** | Ledger | [View ↗](./W/whitworks-adventures-in-theatre.md) |
 
 
 ---
