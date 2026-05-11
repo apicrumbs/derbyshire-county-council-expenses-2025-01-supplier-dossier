@@ -1,607 +1,617 @@
 ﻿# 🏛️ ApiCrumbs Archive: DERBYSHIRE-COUNTY-COUNCIL-EXPENSES-2025-01-SUPPLIER-DOSSIER
-![Last Sync](https://shields.io/badge/Synchronised-2026--05--11-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/595_UPDATED-emerald?style=for-the-badge)
+![Last Sync](https://shields.io/badge/Synchronised-2026--05--11-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/605_UPDATED-emerald?style=for-the-badge)
 
-📦 **Books in Shard:** 595 | 🛡️ **Tier:** PUBLIC_SNAPSHOT
-⚡ **Latest Press Run:** 595 printed / 17514 skipped (up-to-date).
+📦 **Books in Shard:** 605 | 🛡️ **Tier:** PUBLIC_SNAPSHOT
+⚡ **Latest Press Run:** 605 printed / 18109 skipped (up-to-date).
 
 ## 📚 Table of Contents
 | Status | Last Updated | Entity / ID | Summary Insight | Access Book |
 | :--- | :--- | :--- | :--- | :--- |
-| 🟢 | `2026-05-08 17:40:49` | **24 x 7 Limited** | Ledger | [View ↗](./2/24-x-7-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **A & S Bearings & Transmissions Ltd** | Ledger | [View ↗](./A/a---s-bearings---transmissions-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **A Carter Electrical Ltd** | Ledger | [View ↗](./A/a-carter-electrical-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **A Line (Chesterfield) Ltd** | Ledger | [View ↗](./A/a-line--chesterfield--ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **A Wandless Sign Services Ltd** | Ledger | [View ↗](./A/a-wandless-sign-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **A2Z Cars** | Ledger | [View ↗](./A/a2z-cars.md) |
-| 🟢 | `2026-05-08 17:40:49` | **ACS Roofing Services** | Ledger | [View ↗](./A/acs-roofing-services.md) |
-| 🟢 | `2026-05-08 17:40:49` | **AECOM Infrastructure n Environment** | Ledger | [View ↗](./A/aecom-infrastructure-n-environment.md) |
-| 🟢 | `2026-05-08 17:40:49` | **AECOM Ltd** | Ledger | [View ↗](./A/aecom-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **AIM Awards** | Ledger | [View ↗](./A/aim-awards.md) |
-| 🟢 | `2026-05-08 17:40:49` | **AMION Consulting Ltd** | Ledger | [View ↗](./A/amion-consulting-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **ANEW Young People Services Ltd** | Ledger | [View ↗](./A/anew-young-people-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **AR Travel** | Ledger | [View ↗](./A/ar-travel.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Aaztec Associates Limited** | Ledger | [View ↗](./A/aaztec-associates-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Abbey Green Therapeutic Childrens** | Ledger | [View ↗](./A/abbey-green-therapeutic-childrens.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Abbeydale** | Ledger | [View ↗](./A/abbeydale.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Above N Beyond Ltd** | Ledger | [View ↗](./A/above-n-beyond-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Absolute Childrens Services Ltd** | Ledger | [View ↗](./A/absolute-childrens-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Access UK Ltd** | Ledger | [View ↗](./A/access-uk-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ace Janitorial Supplies Ltd** | Ledger | [View ↗](./A/ace-janitorial-supplies-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Achieve Together Ltd** | Ledger | [View ↗](./A/achieve-together-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Action for Children** | Ledger | [View ↗](./A/action-for-children.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Active Care Organisation Ltd** | Ledger | [View ↗](./A/active-care-organisation-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Adam Suffolk Flat Roofing Ltd** | Ledger | [View ↗](./A/adam-suffolk-flat-roofing-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Adnan Sikander - A1 Taxis Derby Ltd** | Ledger | [View ↗](./A/adnan-sikander---a1-taxis-derby-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Affinity Fostering** | Ledger | [View ↗](./A/affinity-fostering.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Agrade Community Care Services Ltd** | Ledger | [View ↗](./A/agrade-community-care-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ahavah Healthcare Ltd** | Ledger | [View ↗](./A/ahavah-healthcare-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Albatross Cars** | Ledger | [View ↗](./A/albatross-cars.md) |
-| 🟢 | `2026-05-08 17:40:49` | **All Purpose Cleaning &** | Ledger | [View ↗](./A/all-purpose-cleaning--.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Amber Lodge Nursing Home** | Ledger | [View ↗](./A/amber-lodge-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Amber Taxis Alfreton Ltd** | Ledger | [View ↗](./A/amber-taxis-alfreton-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Amethyst Care and Support Group** | Ledger | [View ↗](./A/amethyst-care-and-support-group.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Amey OW Ltd** | Ledger | [View ↗](./A/amey-ow-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Anand Mishra** | Ledger | [View ↗](./A/anand-mishra.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Anchor Hanover Group** | Ledger | [View ↗](./A/anchor-hanover-group.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Andrew Thomson** | Ledger | [View ↗](./A/andrew-thomson.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Andrews Of Tideswell Ltd** | Ledger | [View ↗](./A/andrews-of-tideswell-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Antony Prakash** | Ledger | [View ↗](./A/antony-prakash.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Apex Care Centre** | Ledger | [View ↗](./A/apex-care-centre.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Appleford Limited** | Ledger | [View ↗](./A/appleford-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Arden Winch and Co Ltd** | Ledger | [View ↗](./A/arden-winch-and-co-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Aria Healthcare Group Ltd** | Ledger | [View ↗](./A/aria-healthcare-group-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Arriva North West Ltd** | Ledger | [View ↗](./A/arriva-north-west-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Arrow County Supplies Ltd** | Ledger | [View ↗](./A/arrow-county-supplies-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Art Of Brilliance Ltd** | Ledger | [View ↗](./A/art-of-brilliance-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ashbourne Primary School** | Ledger | [View ↗](./A/ashbourne-primary-school.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ashbrook Centre** | Ledger | [View ↗](./A/ashbrook-centre.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ashbrook Roofing and Supplies Ltd** | Ledger | [View ↗](./A/ashbrook-roofing-and-supplies-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ashcroft Nursing Home** | Ledger | [View ↗](./A/ashcroft-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ashefields Care Home** | Ledger | [View ↗](./A/ashefields-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ashfields** | Ledger | [View ↗](./A/ashfields.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ashgate Care Ltd** | Ledger | [View ↗](./A/ashgate-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ashleigh** | Ledger | [View ↗](./A/ashleigh.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ashwood Children’s Care Home Ltd** | Ledger | [View ↗](./A/ashwood-children---s-care-home-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Aspire Health & Care Limited** | Ledger | [View ↗](./A/aspire-health---care-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Aspire Pathway Group** | Ledger | [View ↗](./A/aspire-pathway-group.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Autism East Mids** | Ledger | [View ↗](./A/autism-east-mids.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Autism Support and Care** | Ledger | [View ↗](./A/autism-support-and-care.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Autumn Grange** | Ledger | [View ↗](./A/autumn-grange.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Awami Travel Ltd** | Ledger | [View ↗](./A/awami-travel-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **BESTuition Limited** | Ledger | [View ↗](./B/bestuition-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Bakewell and Eyam Comm Transport** | Ledger | [View ↗](./B/bakewell-and-eyam-comm-transport.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Barnfield Care Home** | Ledger | [View ↗](./B/barnfield-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Be My Family Fostering** | Ledger | [View ↗](./B/be-my-family-fostering.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Bearwardcote Hall Residential Home** | Ledger | [View ↗](./B/bearwardcote-hall-residential-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Beaumont House Hucknall** | Ledger | [View ↗](./B/beaumont-house-hucknall.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Beech House Care Home** | Ledger | [View ↗](./B/beech-house-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Belper School** | Ledger | [View ↗](./B/belper-school.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Belper Window Cleaners** | Ledger | [View ↗](./B/belper-window-cleaners.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Belvedere House** | Ledger | [View ↗](./B/belvedere-house.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Berry Hill Primary School** | Ledger | [View ↗](./B/berry-hill-primary-school.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Birchwood Homecaring Services Ltd** | Ledger | [View ↗](./B/birchwood-homecaring-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Bloom Procurement Services Ltd** | Ledger | [View ↗](./B/bloom-procurement-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Blue Kite Children Care Ltd** | Ledger | [View ↗](./B/blue-kite-children-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Blue Mountain Homes Ltd** | Ledger | [View ↗](./B/blue-mountain-homes-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Blue Square Residential Ltd** | Ledger | [View ↗](./B/blue-square-residential-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Bluebird Care East Staff and SD** | Ledger | [View ↗](./B/bluebird-care-east-staff-and-sd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Bolsover District Council** | Ledger | [View ↗](./B/bolsover-district-council.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Bolsover Woodlands Enterprise Ltd** | Ledger | [View ↗](./B/bolsover-woodlands-enterprise-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Brackenfield Hall** | Ledger | [View ↗](./B/brackenfield-hall.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Bradcare Ltd** | Ledger | [View ↗](./B/bradcare-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Bramble Lodge** | Ledger | [View ↗](./B/bramble-lodge.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Breedon Trading Ltd** | Ledger | [View ↗](./B/breedon-trading-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Briar Close HOP- Borrowash** | Ledger | [View ↗](./B/briar-close-hop--borrowash.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Bright Opportunities** | Ledger | [View ↗](./B/bright-opportunities.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Brimington Care Home** | Ledger | [View ↗](./B/brimington-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **British Telecommunications** | Ledger | [View ↗](./B/british-telecommunications.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Broad Oak Properties Ltd** | Ledger | [View ↗](./B/broad-oak-properties-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Bronbury Services Ltd** | Ledger | [View ↗](./B/bronbury-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Brookfields Day Nursery** | Ledger | [View ↗](./B/brookfields-day-nursery.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Brookholme Care Home** | Ledger | [View ↗](./B/brookholme-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Brookholme Croft Ltd** | Ledger | [View ↗](./B/brookholme-croft-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Brookview Nursing Home Ltd** | Ledger | [View ↗](./B/brookview-nursing-home-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Broughton Lodge** | Ledger | [View ↗](./B/broughton-lodge.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Bss Group Plc** | Ledger | [View ↗](./B/bss-group-plc.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Bupa Care** | Ledger | [View ↗](./B/bupa-care.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Burton College** | Ledger | [View ↗](./B/burton-college.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Busy Bees Nurseries Limited - Burnt** | Ledger | [View ↗](./B/busy-bees-nurseries-limited---burnt.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Butterley House** | Ledger | [View ↗](./B/butterley-house.md) |
-| 🟢 | `2026-05-08 17:40:49` | **C We R Here (CIC)** | Ledger | [View ↗](./C/c-we-r-here--cic-.md) |
-| 🟢 | `2026-05-08 17:40:49` | **C We R Here Youth Limited** | Ledger | [View ↗](./C/c-we-r-here-youth-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **CL And C Britland Contractors Ltd** | Ledger | [View ↗](./C/cl-and-c-britland-contractors-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **CY4OR Legal Ltd** | Ledger | [View ↗](./C/cy4or-legal-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Cae Melyn Group Home** | Ledger | [View ↗](./C/cae-melyn-group-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Caldecott Foundation** | Ledger | [View ↗](./C/caldecott-foundation.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Cambian Childcare Ltd** | Ledger | [View ↗](./C/cambian-childcare-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Capstone Foster Care** | Ledger | [View ↗](./C/capstone-foster-care.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Care Relief Team** | Ledger | [View ↗](./C/care-relief-team.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Care in Mind** | Ledger | [View ↗](./C/care-in-mind.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Caring Hands** | Ledger | [View ↗](./C/caring-hands.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Carter Brown** | Ledger | [View ↗](./C/carter-brown.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Castle Donington College** | Ledger | [View ↗](./C/castle-donington-college.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Castle View Primary School** | Ledger | [View ↗](./C/castle-view-primary-school.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Cedar Lodge Residential Home** | Ledger | [View ↗](./C/cedar-lodge-residential-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Cedars and Larches Care Ltd** | Ledger | [View ↗](./C/cedars-and-larches-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Cedarways Residential Child Care** | Ledger | [View ↗](./C/cedarways-residential-child-care.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Cera Care Ltd** | Ledger | [View ↗](./C/cera-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Charles Endirect Ltd** | Ledger | [View ↗](./C/charles-endirect-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Charnwood Lodge** | Ledger | [View ↗](./C/charnwood-lodge.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Chatsworth Grange Nursing Home** | Ledger | [View ↗](./C/chatsworth-grange-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Chatsworth Lodge Nursing Home** | Ledger | [View ↗](./C/chatsworth-lodge-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Chellaston Academy** | Ledger | [View ↗](./C/chellaston-academy.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Chesterfield Area Office (CAYA)** | Ledger | [View ↗](./C/chesterfield-area-office--caya-.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Chesterfield Borough Council Cashie** | Ledger | [View ↗](./C/chesterfield-borough-council-cashie.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Chesterfield Home Care Ltd** | Ledger | [View ↗](./C/chesterfield-home-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Chic Cleaning Services Ltd** | Ledger | [View ↗](./C/chic-cleaning-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Childrens Family Trust** | Ledger | [View ↗](./C/childrens-family-trust.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Christina Corbett** | Ledger | [View ↗](./C/christina-corbett.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Chrysalis Consortium** | Ledger | [View ↗](./C/chrysalis-consortium.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Cintra Ltd** | Ledger | [View ↗](./C/cintra-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Circuit Electrical Testing Ltd** | Ledger | [View ↗](./C/circuit-electrical-testing-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Citron Hygiene UK Ltd** | Ledger | [View ↗](./C/citron-hygiene-uk-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **City Electrical Factors Ltd** | Ledger | [View ↗](./C/city-electrical-factors-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **City and Guilds** | Ledger | [View ↗](./C/city-and-guilds.md) |
-| 🟢 | `2026-05-08 17:40:49` | **City of Derby Academy** | Ledger | [View ↗](./C/city-of-derby-academy.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Civica Uk Limited** | Ledger | [View ↗](./C/civica-uk-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Clarity Travel Management** | Ledger | [View ↗](./C/clarity-travel-management.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Clay Cross - High St (AC)** | Ledger | [View ↗](./C/clay-cross---high-st--ac-.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Claydon Lodge Nursing Home** | Ledger | [View ↗](./C/claydon-lodge-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Cliff House** | Ledger | [View ↗](./C/cliff-house.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Codnor Park Residential Home** | Ledger | [View ↗](./C/codnor-park-residential-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Collins Donnelly Consultancy** | Ledger | [View ↗](./C/collins-donnelly-consultancy.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Comensura Ltd** | Ledger | [View ↗](./C/comensura-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Community Life Choices** | Ledger | [View ↗](./C/community-life-choices.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Compass Childrens Homes  LTD** | Ledger | [View ↗](./C/compass-childrens-homes--ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Compass Fostering Central Limited** | Ledger | [View ↗](./C/compass-fostering-central-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Compass Minerals UK Ltd** | Ledger | [View ↗](./C/compass-minerals-uk-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Concertus Derbyshire Limited** | Ledger | [View ↗](./C/concertus-derbyshire-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Connex Community Support** | Ledger | [View ↗](./C/connex-community-support.md) |
-| 🟢 | `2026-05-08 17:40:49` | **County Fencing** | Ledger | [View ↗](./C/county-fencing.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Court Catering Equipment** | Ledger | [View ↗](./C/court-catering-equipment.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Crescent Cars** | Ledger | [View ↗](./C/crescent-cars.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Crown Exec Derby Travel Ltd** | Ledger | [View ↗](./C/crown-exec-derby-travel-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Crystal Care Solutions Ltd** | Ledger | [View ↗](./C/crystal-care-solutions-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Cyber Media Solutions Ltd** | Ledger | [View ↗](./C/cyber-media-solutions-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Cygnet Care Services Ltd** | Ledger | [View ↗](./C/cygnet-care-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **DC Ada Belfield Centre** | Ledger | [View ↗](./D/dc-ada-belfield-centre.md) |
-| 🟢 | `2026-05-08 17:40:49` | **DCMS Building Digital UK (BDUK)** | Ledger | [View ↗](./D/dcms-building-digital-uk--bduk-.md) |
-| 🟢 | `2026-05-08 17:40:49` | **DJB Care Services Limited** | Ledger | [View ↗](./D/djb-care-services-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **DMG Asbestos Management Ltd** | Ledger | [View ↗](./D/dmg-asbestos-management-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **DNA Care Services Ltd** | Ledger | [View ↗](./D/dna-care-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **DTW Communications and** | Ledger | [View ↗](./D/dtw-communications-and.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Daisychain Homecare Services** | Ledger | [View ↗](./D/daisychain-homecare-services.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Daniel Currie** | Ledger | [View ↗](./D/daniel-currie.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Darnall Grange Nursing Home** | Ledger | [View ↗](./D/darnall-grange-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **David Lewis Centre for Epilepsy** | Ledger | [View ↗](./D/david-lewis-centre-for-epilepsy.md) |
-| 🟢 | `2026-05-08 17:40:49` | **De-Luxe Coach Services** | Ledger | [View ↗](./D/de-luxe-coach-services.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Derby City Council (Finance)** | Ledger | [View ↗](./D/derby-city-council--finance-.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Derby Heights** | Ledger | [View ↗](./D/derby-heights.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Derbyshire Community Health** | Ledger | [View ↗](./D/derbyshire-community-health.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Desire Care** | Ledger | [View ↗](./D/desire-care.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Disability Syndicate Ltd** | Ledger | [View ↗](./D/disability-syndicate-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Donald Ward Limited T/A Ward** | Ledger | [View ↗](./D/donald-ward-limited-t-a-ward.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Douglas Court Care Home Ltd** | Ledger | [View ↗](./D/douglas-court-care-home-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Dovelin Cars** | Ledger | [View ↗](./D/dovelin-cars.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Dronfield Henry Fanshawe School** | Ledger | [View ↗](./D/dronfield-henry-fanshawe-school.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Duckmanton Mini-Bus Hire Ltd** | Ledger | [View ↗](./D/duckmanton-mini-bus-hire-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **EMH Care and Support LTD** | Ledger | [View ↗](./E/emh-care-and-support-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **EMH Group** | Ledger | [View ↗](./E/emh-group.md) |
-| 🟢 | `2026-05-08 17:40:49` | **East Midlands Homecare Ltd** | Ledger | [View ↗](./E/east-midlands-homecare-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Eastern Family Service Ltd** | Ledger | [View ↗](./E/eastern-family-service-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Eckington Court Care Home** | Ledger | [View ↗](./E/eckington-court-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Eden Holme Care** | Ledger | [View ↗](./E/eden-holme-care.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Edf Energy Customers Ltd** | Ledger | [View ↗](./E/edf-energy-customers-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Edwards Metal Windows** | Ledger | [View ↗](./E/edwards-metal-windows.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Electricity North West Limited** | Ledger | [View ↗](./E/electricity-north-west-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Elis UK Limited** | Ledger | [View ↗](./E/elis-uk-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Elm Lodge Care Home** | Ledger | [View ↗](./E/elm-lodge-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Emcat Ltd** | Ledger | [View ↗](./E/emcat-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Environtec ltd** | Ledger | [View ↗](./E/environtec-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Equilibrium Healthcare** | Ledger | [View ↗](./E/equilibrium-healthcare.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Erewash Borough Council** | Ledger | [View ↗](./E/erewash-borough-council.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Erewash Community Transport Ltd** | Ledger | [View ↗](./E/erewash-community-transport-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Esland North Limited** | Ledger | [View ↗](./E/esland-north-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Euclid Ltd** | Ledger | [View ↗](./E/euclid-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Everything Everywhere Ltd** | Ledger | [View ↗](./E/everything-everywhere-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Excel Fostering Ltd** | Ledger | [View ↗](./E/excel-fostering-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Excell Home Care Ltd** | Ledger | [View ↗](./E/excell-home-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Express of Chesterfield Ltd** | Ledger | [View ↗](./E/express-of-chesterfield-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Eyam Domiciliary Service Ltd** | Ledger | [View ↗](./E/eyam-domiciliary-service-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **F E Khan** | Ledger | [View ↗](./F/f-e-khan.md) |
-| 🟢 | `2026-05-08 17:40:49` | **FHP Property Consultants** | Ledger | [View ↗](./F/fhp-property-consultants.md) |
-| 🟢 | `2026-05-08 17:40:49` | **FI Real Estate Management Ltd** | Ledger | [View ↗](./F/fi-real-estate-management-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Fairview Childrens Home** | Ledger | [View ↗](./F/fairview-childrens-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Fieldings** | Ledger | [View ↗](./F/fieldings.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Fieldwell Energy Services** | Ledger | [View ↗](./F/fieldwell-energy-services.md) |
-| 🟢 | `2026-05-08 17:40:49` | **First 4 Supplies Ltd** | Ledger | [View ↗](./F/first-4-supplies-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **First Blue Healthcare Limited** | Ledger | [View ↗](./F/first-blue-healthcare-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **FitzRoy Support** | Ledger | [View ↗](./F/fitzroy-support.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Five Healthgroup Ltd T/A** | Ledger | [View ↗](./F/five-healthgroup-ltd-t-a.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Five Rivers Child Care Limited** | Ledger | [View ↗](./F/five-rivers-child-care-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Flagg Methodist Church** | Ledger | [View ↗](./F/flagg-methodist-church.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Flogas Uk Ltd** | Ledger | [View ↗](./F/flogas-uk-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Footsteps to Futures Limited** | Ledger | [View ↗](./F/footsteps-to-futures-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Forest Way School** | Ledger | [View ↗](./F/forest-way-school.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Foster Care Associates Limited** | Ledger | [View ↗](./F/foster-care-associates-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Fostering People Ltd** | Ledger | [View ↗](./F/fostering-people-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Fosterplus Ltd** | Ledger | [View ↗](./F/fosterplus-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Freeman College** | Ledger | [View ↗](./F/freeman-college.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Fusion Fostering** | Ledger | [View ↗](./F/fusion-fostering.md) |
-| 🟢 | `2026-05-08 17:40:49` | **G D Golding Skip Hire Ltd** | Ledger | [View ↗](./G/g-d-golding-skip-hire-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Gailarde Ltd** | Ledger | [View ↗](./G/gailarde-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Gas Training Solutions Ltd** | Ledger | [View ↗](./G/gas-training-solutions-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Genesis Care Home** | Ledger | [View ↗](./G/genesis-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Gentle Hands Home Care** | Ledger | [View ↗](./G/gentle-hands-home-care.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Gilvar Lining Ltd** | Ledger | [View ↗](./G/gilvar-lining-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Glenholme - Long Eaton** | Ledger | [View ↗](./G/glenholme---long-eaton.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Glossop Childrens Centre** | Ledger | [View ↗](./G/glossop-childrens-centre.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Godfrey Barnes Care SL Limited** | Ledger | [View ↗](./G/godfrey-barnes-care-sl-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Golden Years Support Services Ltd** | Ledger | [View ↗](./G/golden-years-support-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Goldwell Manor** | Ledger | [View ↗](./G/goldwell-manor.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Gordon Mckeaveney-Davis** | Ledger | [View ↗](./G/gordon-mckeaveney-davis.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Gorse Hill Residential Home** | Ledger | [View ↗](./G/gorse-hill-residential-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Goyt Valley Carers Ltd** | Ledger | [View ↗](./G/goyt-valley-carers-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Graham Key Conservation and** | Ledger | [View ↗](./G/graham-key-conservation-and.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Greater Manchester Independent Scho** | Ledger | [View ↗](./G/greater-manchester-independent-scho.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Green Nursing Home** | Ledger | [View ↗](./G/green-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Gresley House Care Home** | Ledger | [View ↗](./G/gresley-house-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Grove Social Care Ltd** | Ledger | [View ↗](./G/grove-social-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Guardian Care Homes Caledonia Ltd** | Ledger | [View ↗](./G/guardian-care-homes-caledonia-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Gutu Mirror Healthcare** | Ledger | [View ↗](./G/gutu-mirror-healthcare.md) |
-| 🟢 | `2026-05-08 17:40:49` | **HSBC Merchant Services LLP** | Ledger | [View ↗](./H/hsbc-merchant-services-llp.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Haddon Hall Care Home** | Ledger | [View ↗](./H/haddon-hall-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Haddon House Nursing Home** | Ledger | [View ↗](./H/haddon-house-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Haddon House Nursing Home (Ilkeston** | Ledger | [View ↗](./H/haddon-house-nursing-home--ilkeston.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Hallmashire Care Home Ltd** | Ledger | [View ↗](./H/hallmashire-care-home-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Handley Care Services** | Ledger | [View ↗](./H/handley-care-services.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Hannah B Walker** | Ledger | [View ↗](./H/hannah-b-walker.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Harpurs Coaches Ltd** | Ledger | [View ↗](./H/harpurs-coaches-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Harriet Jones - St Johns Buildings** | Ledger | [View ↗](./H/harriet-jones---st-johns-buildings.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Haven Residential Home** | Ledger | [View ↗](./H/haven-residential-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Hazeldene House** | Ledger | [View ↗](./H/hazeldene-house.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Hazelgrove Care Home** | Ledger | [View ↗](./H/hazelgrove-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Healthy Living Centre** | Ledger | [View ↗](./H/healthy-living-centre.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Heather Vale** | Ledger | [View ↗](./H/heather-vale.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Helen L Williams** | Ledger | [View ↗](./H/helen-l-williams.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Heritage Care** | Ledger | [View ↗](./H/heritage-care.md) |
-| 🟢 | `2026-05-08 17:40:49` | **High Peak Borough Council** | Ledger | [View ↗](./H/high-peak-borough-council.md) |
-| 🟢 | `2026-05-08 17:40:49` | **High Peak Carers Ltd** | Ledger | [View ↗](./H/high-peak-carers-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Highwire Testing Services Ltd** | Ledger | [View ↗](./H/highwire-testing-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Hill Care Ltd (Springbank House)** | Ledger | [View ↗](./H/hill-care-ltd--springbank-house-.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Hill House Care Home** | Ledger | [View ↗](./H/hill-house-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Hilltop Lodge Chapeltown** | Ledger | [View ↗](./H/hilltop-lodge-chapeltown.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Hirst Signs Ltd** | Ledger | [View ↗](./H/hirst-signs-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Holdsworth Food Service** | Ledger | [View ↗](./H/holdsworth-food-service.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Hollin Knowle** | Ledger | [View ↗](./H/hollin-knowle.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Hollybank House Care Home** | Ledger | [View ↗](./H/hollybank-house-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Hollybank Nursing Home** | Ledger | [View ↗](./H/hollybank-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Holmewood Care Home** | Ledger | [View ↗](./H/holmewood-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Holywell Childrens Services Ltd** | Ledger | [View ↗](./H/holywell-childrens-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Home Instead High Peak** | Ledger | [View ↗](./H/home-instead-high-peak.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Home2Home with Care Ltd** | Ledger | [View ↗](./H/home2home-with-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Homecare Domicilliary & Domestic** | Ledger | [View ↗](./H/homecare-domicilliary---domestic.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Homes Together LTD** | Ledger | [View ↗](./H/homes-together-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Hope at Hand** | Ledger | [View ↗](./H/hope-at-hand.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Hopscotch Care Limited** | Ledger | [View ↗](./H/hopscotch-care-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Horizon Care Group** | Ledger | [View ↗](./H/horizon-care-group.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Housing 21 - Care** | Ledger | [View ↗](./H/housing-21---care.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Howes Percival LLP** | Ledger | [View ↗](./H/howes-percival-llp.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Hulland CofE Primary School** | Ledger | [View ↗](./H/hulland-cofe-primary-school.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Huws Gray Group** | Ledger | [View ↗](./H/huws-gray-group.md) |
-| 🟢 | `2026-05-08 17:40:49` | **I Smith** | Ledger | [View ↗](./I/i-smith.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ian Garlick Contracting Services** | Ledger | [View ↗](./I/ian-garlick-contracting-services.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Idridgehay Community Association** | Ledger | [View ↗](./I/idridgehay-community-association.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Imperial Laundry** | Ledger | [View ↗](./I/imperial-laundry.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Inclusion Housing CIC Ltd** | Ledger | [View ↗](./I/inclusion-housing-cic-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Independent Care Link Ltd** | Ledger | [View ↗](./I/independent-care-link-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Initial Washroom** | Ledger | [View ↗](./I/initial-washroom.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Insight Direct Uk Ltd** | Ledger | [View ↗](./I/insight-direct-uk-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Intacare Ltd** | Ledger | [View ↗](./I/intacare-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Integrative Supported Living Care L** | Ledger | [View ↗](./I/integrative-supported-living-care-l.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ivie Lodge Limited** | Ledger | [View ↗](./I/ivie-lodge-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ivonbrook** | Ledger | [View ↗](./I/ivonbrook.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ivonbrook-Darley Hall Resident Home** | Ledger | [View ↗](./I/ivonbrook-darley-hall-resident-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ivy House Fostering Agency Ltd** | Ledger | [View ↗](./I/ivy-house-fostering-agency-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **J Booth Millward Plant Ltd** | Ledger | [View ↗](./J/j-booth-millward-plant-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **J C Balls And Sons LTD** | Ledger | [View ↗](./J/j-c-balls-and-sons-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **J C Mills Property Management** | Ledger | [View ↗](./J/j-c-mills-property-management.md) |
-| 🟢 | `2026-05-08 17:40:49` | **JS Supported Living Services Ltd** | Ledger | [View ↗](./J/js-supported-living-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Jackie Dennis** | Ledger | [View ↗](./J/jackie-dennis.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Jacobs UK Ltd** | Ledger | [View ↗](./J/jacobs-uk-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Jairos Fusire** | Ledger | [View ↗](./J/jairos-fusire.md) |
-| 🟢 | `2026-05-08 17:40:49` | **James Gardiner** | Ledger | [View ↗](./J/james-gardiner.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Jason Hylton Court** | Ledger | [View ↗](./J/jason-hylton-court.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Jens Xplorers Ltd** | Ledger | [View ↗](./J/jens-xplorers-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Jigsaw Therapeutic Care Ltd** | Ledger | [View ↗](./J/jigsaw-therapeutic-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Just a little company** | Ledger | [View ↗](./J/just-a-little-company.md) |
-| 🟢 | `2026-05-08 17:40:49` | **K Neville Ltd** | Ledger | [View ↗](./K/k-neville-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **KE 24/7 Staffing Solutions Ltd** | Ledger | [View ↗](./K/ke-24-7-staffing-solutions-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Kent County Council** | Ledger | [View ↗](./K/kent-county-council.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Kevin Boole** | Ledger | [View ↗](./K/kevin-boole.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Keys Group Ltd** | Ledger | [View ↗](./K/keys-group-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Keystone Chesterfield Ltd** | Ledger | [View ↗](./K/keystone-chesterfield-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Knowle Hill Residential Home** | Ledger | [View ↗](./K/knowle-hill-residential-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **LAM Services Ltd** | Ledger | [View ↗](./L/lam-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **La Petite Academy** | Ledger | [View ↗](./L/la-petite-academy.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Lady Manners School** | Ledger | [View ↗](./L/lady-manners-school.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ladywood Primary School** | Ledger | [View ↗](./L/ladywood-primary-school.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Lanes Group Plc** | Ledger | [View ↗](./L/lanes-group-plc.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Langdale Lodge Home (Chesterfield)** | Ledger | [View ↗](./L/langdale-lodge-home--chesterfield-.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Langley Mill Contract Flooring** | Ledger | [View ↗](./L/langley-mill-contract-flooring.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Laurels and Limes Care Home** | Ledger | [View ↗](./L/laurels-and-limes-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Leigh Day Client Account** | Ledger | [View ↗](./L/leigh-day-client-account.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Leonard Cheshire Services CIC** | Ledger | [View ↗](./L/leonard-cheshire-services-cic.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Lets Talk** | Ledger | [View ↗](./L/lets-talk.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Liberty House** | Ledger | [View ↗](./L/liberty-house.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Lifetime Home Care Ltd** | Ledger | [View ↗](./L/lifetime-home-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Lifeways** | Ledger | [View ↗](./L/lifeways.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Lilyrose Care Group Ltd** | Ledger | [View ↗](./L/lilyrose-care-group-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Lime Tree Care Ltd** | Ledger | [View ↗](./L/lime-tree-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Linden House Family Centre** | Ledger | [View ↗](./L/linden-house-family-centre.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Lion Cars Ltd** | Ledger | [View ↗](./L/lion-cars-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Little Transport Ltd** | Ledger | [View ↗](./L/little-transport-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Littlemoor Care Home limited** | Ledger | [View ↗](./L/littlemoor-care-home-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Liverpool Uni Hospital NHS FT** | Ledger | [View ↗](./L/liverpool-uni-hospital-nhs-ft.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Lovehands Care Services Ltd** | Ledger | [View ↗](./L/lovehands-care-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **M Markovitz Limited** | Ledger | [View ↗](./M/m-markovitz-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **MGB Care Services Ltd** | Ledger | [View ↗](./M/mgb-care-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **MPC Services Uk Ltd** | Ledger | [View ↗](./M/mpc-services-uk-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Mansoor Ahmed** | Ledger | [View ↗](./M/mansoor-ahmed.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Markham House** | Ledger | [View ↗](./M/markham-house.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Matchtech Group UK Ltd** | Ledger | [View ↗](./M/matchtech-group-uk-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Meadow Grange Care Home** | Ledger | [View ↗](./M/meadow-grange-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Meadows Care Home** | Ledger | [View ↗](./M/meadows-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Med Care Home Services Ltd** | Ledger | [View ↗](./M/med-care-home-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Mediline Home Care Ltd** | Ledger | [View ↗](./M/mediline-home-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Mencap** | Ledger | [View ↗](./M/mencap.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Meridian Healthcare Ltd** | Ledger | [View ↗](./M/meridian-healthcare-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Methodist Homes For The Aged** | Ledger | [View ↗](./M/methodist-homes-for-the-aged.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Metropolitan care solutions Limited** | Ledger | [View ↗](./M/metropolitan-care-solutions-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Midlands Partnership NHS Foundation** | Ledger | [View ↗](./M/midlands-partnership-nhs-foundation.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Midshires Healthcare Ltd** | Ledger | [View ↗](./M/midshires-healthcare-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Milford House Nursing Home** | Ledger | [View ↗](./M/milford-house-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Millfield Care Home** | Ledger | [View ↗](./M/millfield-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Millington Springs Nursing** | Ledger | [View ↗](./M/millington-springs-nursing.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Monarch Healthcare Ltd** | Ledger | [View ↗](./M/monarch-healthcare-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Monk Education Associates** | Ledger | [View ↗](./M/monk-education-associates.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Moore Care (Registered) Ltd** | Ledger | [View ↗](./M/moore-care--registered--ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Moore Care Limited** | Ledger | [View ↗](./M/moore-care-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Moorlands Nursing Home** | Ledger | [View ↗](./M/moorlands-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Morning Rise Supported Housing** | Ledger | [View ↗](./M/morning-rise-supported-housing.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Morton Grange Nursing Home** | Ledger | [View ↗](./M/morton-grange-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Mr Faisle Rashid** | Ledger | [View ↗](./M/mr-faisle-rashid.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Mr P S & Mrs Cyrstal Freeman** | Ledger | [View ↗](./M/mr-p-s---mrs-cyrstal-freeman.md) |
-| 🟢 | `2026-05-08 17:40:49` | **My Homecare** | Ledger | [View ↗](./M/my-homecare.md) |
-| 🟢 | `2026-05-08 17:40:49` | **My House Calow Ltd** | Ledger | [View ↗](./M/my-house-calow-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **NHS Pension Scheme Account** | Ledger | [View ↗](./N/nhs-pension-scheme-account.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Nardus Helthcare Ltd** | Ledger | [View ↗](./N/nardus-helthcare-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **National Timber Group England Ltd** | Ledger | [View ↗](./N/national-timber-group-england-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **National World Publishing Ltd** | Ledger | [View ↗](./N/national-world-publishing-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Nethermoor Care Home** | Ledger | [View ↗](./N/nethermoor-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **New Focus Child Care Ltd** | Ledger | [View ↗](./N/new-focus-child-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **New Life Fostering Agency** | Ledger | [View ↗](./N/new-life-fostering-agency.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Newdon Health Care Ltd** | Ledger | [View ↗](./N/newdon-health-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Nexus Fostering Limited** | Ledger | [View ↗](./N/nexus-fostering-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Normanton Lodge** | Ledger | [View ↗](./N/normanton-lodge.md) |
-| 🟢 | `2026-05-08 17:40:49` | **North East Derbyshire District Coun** | Ledger | [View ↗](./N/north-east-derbyshire-district-coun.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Nottinghamshire County Council** | Ledger | [View ↗](./N/nottinghamshire-county-council.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Oaklands Care Home** | Ledger | [View ↗](./O/oaklands-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Oakwood Bungalows** | Ledger | [View ↗](./O/oakwood-bungalows.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Old Lodge Nursing Home** | Ledger | [View ↗](./O/old-lodge-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Old Post House** | Ledger | [View ↗](./O/old-post-house.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Old Vicarage Nursing Home** | Ledger | [View ↗](./O/old-vicarage-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Oldham Total Care Limited** | Ledger | [View ↗](./O/oldham-total-care-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **OnUp** | Ledger | [View ↗](./O/onup.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Oneness Children's Care Limited** | Ledger | [View ↗](./O/oneness-children-s-care-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Only care Blackwell LTD** | Ledger | [View ↗](./O/only-care-blackwell-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Operation Orphan** | Ledger | [View ↗](./O/operation-orphan.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Oracle Translation Limited** | Ledger | [View ↗](./O/oracle-translation-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Orcadia Residential Home** | Ledger | [View ↗](./O/orcadia-residential-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Osmaston Grange** | Ledger | [View ↗](./O/osmaston-grange.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Oxygen Finance Ltd** | Ledger | [View ↗](./O/oxygen-finance-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **PA Excavations Ltd** | Ledger | [View ↗](./P/pa-excavations-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **PHS Group Ltd** | Ledger | [View ↗](./P/phs-group-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Pace Fuelcare** | Ledger | [View ↗](./P/pace-fuelcare.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Palterton Primary School** | Ledger | [View ↗](./P/palterton-primary-school.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Paramount Children Care Ltd** | Ledger | [View ↗](./P/paramount-children-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Paresthesia Limited** | Ledger | [View ↗](./P/paresthesia-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **PartsPlus** | Ledger | [View ↗](./P/partsplus.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Pathways of Chesterfield** | Ledger | [View ↗](./P/pathways-of-chesterfield.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Paul Spencer** | Ledger | [View ↗](./P/paul-spencer.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Paxton House** | Ledger | [View ↗](./P/paxton-house.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Peak Home Assist** | Ledger | [View ↗](./P/peak-home-assist.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Peak Lodge (The Willows)** | Ledger | [View ↗](./P/peak-lodge--the-willows-.md) |
-| 🟢 | `2026-05-08 17:40:49` | **People Potential Possibilities** | Ledger | [View ↗](./P/people-potential-possibilities.md) |
-| 🟢 | `2026-05-08 17:40:49` | **People Who Foster Ltd** | Ledger | [View ↗](./P/people-who-foster-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Perrys - Head Office** | Ledger | [View ↗](./P/perrys---head-office.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Peter Byard Plant Hire Ltd** | Ledger | [View ↗](./P/peter-byard-plant-hire-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Peters Limited** | Ledger | [View ↗](./P/peters-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Phoenix Cars** | Ledger | [View ↗](./P/phoenix-cars.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Phoenix Community Care** | Ledger | [View ↗](./P/phoenix-community-care.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Phoenix Cottages Limited** | Ledger | [View ↗](./P/phoenix-cottages-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Pjs Private Hire** | Ledger | [View ↗](./P/pjs-private-hire.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Platform Childcare Ltd** | Ledger | [View ↗](./P/platform-childcare-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Police and Crime Commissioner** | Ledger | [View ↗](./P/police-and-crime-commissioner.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Post Office Ltd** | Ledger | [View ↗](./P/post-office-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Potens** | Ledger | [View ↗](./P/potens.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Precision Tree Care** | Ledger | [View ↗](./P/precision-tree-care.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Premier Nursing Agency Ltd** | Ledger | [View ↗](./P/premier-nursing-agency-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Presentation Sisters Care Centre** | Ledger | [View ↗](./P/presentation-sisters-care-centre.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Prime Life Ltd** | Ledger | [View ↗](./P/prime-life-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Prime Nurture Services Limited** | Ledger | [View ↗](./P/prime-nurture-services-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Prism Infosec** | Ledger | [View ↗](./P/prism-infosec.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Prism Medical UK Westholme Division** | Ledger | [View ↗](./P/prism-medical-uk-westholme-division.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Proactive Personnel Ltd** | Ledger | [View ↗](./P/proactive-personnel-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **QTS Education Recruitment** | Ledger | [View ↗](./Q/qts-education-recruitment.md) |
-| 🟢 | `2026-05-08 17:40:49` | **R C Developments** | Ledger | [View ↗](./R/r-c-developments.md) |
-| 🟢 | `2026-05-08 17:40:49` | **R J Lift Services Ltd** | Ledger | [View ↗](./R/r-j-lift-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **R Khan** | Ledger | [View ↗](./R/r-khan.md) |
-| 🟢 | `2026-05-08 17:40:49` | **R Stevenson** | Ledger | [View ↗](./R/r-stevenson.md) |
-| 🟢 | `2026-05-08 17:40:49` | **REACT Homecare Ltd** | Ledger | [View ↗](./R/react-homecare-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **REDACTED PERSONAL DATA** | Ledger | [View ↗](./R/redacted-personal-data.md) |
-| 🟢 | `2026-05-08 17:40:49` | **RPP Ltd** | Ledger | [View ↗](./R/rpp-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Rainbow Fostering Services Ltd** | Ledger | [View ↗](./R/rainbow-fostering-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Raisu & Amani Care Home Ltd** | Ledger | [View ↗](./R/raisu---amani-care-home-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Raja Safder Khan (Safs Cars)** | Ledger | [View ↗](./R/raja-safder-khan--safs-cars-.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ravensworth Care Home Ltd** | Ledger | [View ↗](./R/ravensworth-care-home-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Reach Housing And Enablement** | Ledger | [View ↗](./R/reach-housing-and-enablement.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Real Homecare Limited** | Ledger | [View ↗](./R/real-homecare-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Real Life Options** | Ledger | [View ↗](./R/real-life-options.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Redhill Academy Trust Shared Servic** | Ledger | [View ↗](./R/redhill-academy-trust-shared-servic.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Reed Talent Solutions Ltd** | Ledger | [View ↗](./R/reed-talent-solutions-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Resolute Care Ltd** | Ledger | [View ↗](./R/resolute-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Rexel Derby** | Ledger | [View ↗](./R/rexel-derby.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Richard Posner** | Ledger | [View ↗](./R/richard-posner.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Richford Motor Services Ltd** | Ledger | [View ↗](./R/richford-motor-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ridgewood House** | Ledger | [View ↗](./R/ridgewood-house.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Rise Above Care Ltd** | Ledger | [View ↗](./R/rise-above-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Rise Multi Academy Trust** | Ledger | [View ↗](./R/rise-multi-academy-trust.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Rite Directions Ltd** | Ledger | [View ↗](./R/rite-directions-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ritz Properties** | Ledger | [View ↗](./R/ritz-properties.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ropewalk Chambers** | Ledger | [View ↗](./R/ropewalk-chambers.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Rosliston Cars Ltd** | Ledger | [View ↗](./R/rosliston-cars-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Routes Healthcare** | Ledger | [View ↗](./R/routes-healthcare.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Roy Wright and Company Limited** | Ledger | [View ↗](./R/roy-wright-and-company-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Royal Manor Nursing Home** | Ledger | [View ↗](./R/royal-manor-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Russells Kirbymoorside Limited** | Ledger | [View ↗](./R/russells-kirbymoorside-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ruth Richards KCH Garden Square** | Ledger | [View ↗](./R/ruth-richards-kch-garden-square.md) |
-| 🟢 | `2026-05-08 17:40:49` | **S & L Electrical Ltd-In Liquidation** | Ledger | [View ↗](./S/s---l-electrical-ltd-in-liquidation.md) |
-| 🟢 | `2026-05-08 17:40:49` | **SB DRAINAGE SOLUTIONS LTD** | Ledger | [View ↗](./S/sb-drainage-solutions-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **SWARCO UK & Ireland Ltd** | Ledger | [View ↗](./S/swarco-uk---ireland-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Safe Cars** | Ledger | [View ↗](./S/safe-cars.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Safe Hands Interpreting Limited** | Ledger | [View ↗](./S/safe-hands-interpreting-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Safe Haven Accommodation LTD** | Ledger | [View ↗](./S/safe-haven-accommodation-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Safe Sanctuary Living Ltd** | Ledger | [View ↗](./S/safe-sanctuary-living-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Safer Staffing Solutions** | Ledger | [View ↗](./S/safer-staffing-solutions.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Salisbury Support 4 Autism Ltd** | Ledger | [View ↗](./S/salisbury-support-4-autism-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Sanctuary Care Limited** | Ledger | [View ↗](./S/sanctuary-care-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Sarah Care Ltd** | Ledger | [View ↗](./S/sarah-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Schuchmann LLP** | Ledger | [View ↗](./S/schuchmann-llp.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Seale Pastures** | Ledger | [View ↗](./S/seale-pastures.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Searchlight Care Services Ltd** | Ledger | [View ↗](./S/searchlight-care-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Securitas Security Services (UK)Ltd** | Ledger | [View ↗](./S/securitas-security-services--uk-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Securitas Technology Ltd** | Ledger | [View ↗](./S/securitas-technology-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Sense** | Ledger | [View ↗](./S/sense.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Serenity Housing Support Limited** | Ledger | [View ↗](./S/serenity-housing-support-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Servitech International Limited** | Ledger | [View ↗](./S/servitech-international-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Seven Hills Nursing Home** | Ledger | [View ↗](./S/seven-hills-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Shardlow Manor** | Ledger | [View ↗](./S/shardlow-manor.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Sharon Allsop** | Ledger | [View ↗](./S/sharon-allsop.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Shaws Taxis** | Ledger | [View ↗](./S/shaws-taxis.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Sheffield Hallam University** | Ledger | [View ↗](./S/sheffield-hallam-university.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Sheffield Tachograph & Taillift** | Ledger | [View ↗](./S/sheffield-tachograph---taillift.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Shining Stars Fostering Agency Ltd** | Ledger | [View ↗](./S/shining-stars-fostering-agency-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Shirevale Resource Centre** | Ledger | [View ↗](./S/shirevale-resource-centre.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Shirland Primary School** | Ledger | [View ↗](./S/shirland-primary-school.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Sid’s Taxis** | Ledger | [View ↗](./S/sid---s-taxis.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Siemens Financial** | Ledger | [View ↗](./S/siemens-financial.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Sight Support Derbyshire** | Ledger | [View ↗](./S/sight-support-derbyshire.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Sigma Pharmaceuticals Plc** | Ledger | [View ↗](./S/sigma-pharmaceuticals-plc.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Smalley Pre School Playgroup** | Ledger | [View ↗](./S/smalley-pre-school-playgroup.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Softcat Ltd** | Ledger | [View ↗](./S/softcat-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Solomon House** | Ledger | [View ↗](./S/solomon-house.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Sonic Silver Ltd** | Ledger | [View ↗](./S/sonic-silver-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **South Normanton Community** | Ledger | [View ↗](./S/south-normanton-community.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Special Care Services Ltd** | Ledger | [View ↗](./S/special-care-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Specialist Computer Centres** | Ledger | [View ↗](./S/specialist-computer-centres.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Spencer Grove Care Home** | Ledger | [View ↗](./S/spencer-grove-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Spion Kop Care Home Ltd** | Ledger | [View ↗](./S/spion-kop-care-home-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Spire Lodge Family Centre** | Ledger | [View ↗](./S/spire-lodge-family-centre.md) |
-| 🟢 | `2026-05-08 17:40:49` | **St Christophers Trust** | Ledger | [View ↗](./S/st-christophers-trust.md) |
-| 🟢 | `2026-05-08 17:40:49` | **St Johns Zoe Aindow** | Ledger | [View ↗](./S/st-johns-zoe-aindow.md) |
-| 🟢 | `2026-05-08 17:40:49` | **St Michaels Nursing Home** | Ledger | [View ↗](./S/st-michaels-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **St. Mary s Care Centre** | Ledger | [View ↗](./S/st--mary-s-care-centre.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Stacey Asphalt Ltd** | Ledger | [View ↗](./S/stacey-asphalt-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Stamford Court** | Ledger | [View ↗](./S/stamford-court.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Stanley Grange Care Home** | Ledger | [View ↗](./S/stanley-grange-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Stannah Ltd** | Ledger | [View ↗](./S/stannah-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Stanton Recycling Limited** | Ledger | [View ↗](./S/stanton-recycling-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Star Fostering Ltd** | Ledger | [View ↗](./S/star-fostering-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Steadfast Training Ltd** | Ledger | [View ↗](./S/steadfast-training-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Stoneacre Peugeot** | Ledger | [View ↗](./S/stoneacre-peugeot.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Stoney Knolls Childrens Home Ltd** | Ledger | [View ↗](./S/stoney-knolls-childrens-home-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Stopford Information Systems Ltd** | Ledger | [View ↗](./S/stopford-information-systems-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Strathmore House** | Ledger | [View ↗](./S/strathmore-house.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Sunbeam Fostering Agency Ltd** | Ledger | [View ↗](./S/sunbeam-fostering-agency-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **SureCare (Chesterfield and Worksop)** | Ledger | [View ↗](./S/surecare--chesterfield-and-worksop-.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Swallownest Nursing Home** | Ledger | [View ↗](./S/swallownest-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Sweet Hope House Limited** | Ledger | [View ↗](./S/sweet-hope-house-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **T-Mex Limited** | Ledger | [View ↗](./T/t-mex-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **TECALEMIT WORKSHOP EQUIPMENT LTD** | Ledger | [View ↗](./T/tecalemit-workshop-equipment-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **TM Travel** | Ledger | [View ↗](./T/tm-travel.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Tamsin Grimmer** | Ledger | [View ↗](./T/tamsin-grimmer.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Tarmac Trading Limited** | Ledger | [View ↗](./T/tarmac-trading-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Tarry Hill Residential Home** | Ledger | [View ↗](./T/tarry-hill-residential-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Taxicover T/A Chriss Minicoaches** | Ledger | [View ↗](./T/taxicover-t-a-chriss-minicoaches.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Thalos Care Ltd** | Ledger | [View ↗](./T/thalos-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **The Gables** | Ledger | [View ↗](./T/the-gables.md) |
-| 🟢 | `2026-05-08 17:40:49` | **The Getaway** | Ledger | [View ↗](./T/the-getaway.md) |
-| 🟢 | `2026-05-08 17:40:49` | **The Grange Shirebrooks Ltd** | Ledger | [View ↗](./T/the-grange-shirebrooks-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **The Green Nursing Homes Group** | Ledger | [View ↗](./T/the-green-nursing-homes-group.md) |
-| 🟢 | `2026-05-08 17:40:49` | **The Limes** | Ledger | [View ↗](./T/the-limes.md) |
-| 🟢 | `2026-05-08 17:40:49` | **The Lodge Care Centre** | Ledger | [View ↗](./T/the-lodge-care-centre.md) |
-| 🟢 | `2026-05-08 17:40:49` | **The Vale Care Home** | Ledger | [View ↗](./T/the-vale-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Thomas Bow Ltd** | Ledger | [View ↗](./T/thomas-bow-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Thompsons Solicitors LLP** | Ledger | [View ↗](./T/thompsons-solicitors-llp.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Tm Private Hire** | Ledger | [View ↗](./T/tm-private-hire.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Together Housing Association** | Ledger | [View ↗](./T/together-housing-association.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Trent Motor Traction Co Ltd** | Ledger | [View ↗](./T/trent-motor-traction-co-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Trentbarton** | Ledger | [View ↗](./T/trentbarton.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Trident Housing Association Ltd** | Ledger | [View ↗](./T/trident-housing-association-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **True Fostering Limited** | Ledger | [View ↗](./T/true-fostering-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Tutors and Exams Ltd** | Ledger | [View ↗](./T/tutors-and-exams-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Twyford Care Ltd T/A Twyford Sup** | Ledger | [View ↗](./T/twyford-care-ltd-t-a-twyford-sup.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Txtlocal Ltd T/A Textlocal** | Ledger | [View ↗](./T/txtlocal-ltd-t-a-textlocal.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Tynefield Care Ltd** | Ledger | [View ↗](./T/tynefield-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **UK Plumbing Supplies Ltd** | Ledger | [View ↗](./U/uk-plumbing-supplies-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Ulverscroft Large Print Books Ltd** | Ledger | [View ↗](./U/ulverscroft-large-print-books-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **United Response Services Ltd** | Ledger | [View ↗](./U/united-response-services-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **University Hospitals of Derby&Burto** | Ledger | [View ↗](./U/university-hospitals-of-derby-burto.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Upwards Residential Care Services L** | Ledger | [View ↗](./U/upwards-residential-care-services-l.md) |
-| 🟢 | `2026-05-08 17:40:49` | **VEEZU NORTH Limited** | Ledger | [View ↗](./V/veezu-north-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Valley Care Direct Ltd** | Ledger | [View ↗](./V/valley-care-direct-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Valorum Care Ltd** | Ledger | [View ↗](./V/valorum-care-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Veolia ES UK Ltd** | Ledger | [View ↗](./V/veolia-es-uk-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Via East Midlands Ltd** | Ledger | [View ↗](./V/via-east-midlands-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Victoria Frost** | Ledger | [View ↗](./V/victoria-frost.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Victoria Street - Chesterfield** | Ledger | [View ↗](./V/victoria-street---chesterfield.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Villas Care Homes Limited** | Ledger | [View ↗](./V/villas-care-homes-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Vital Balance Ltd** | Ledger | [View ↗](./V/vital-balance-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Voice Fostering Ltd** | Ledger | [View ↗](./V/voice-fostering-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Voyage Care** | Ledger | [View ↗](./V/voyage-care.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Voyage Ltd** | Ledger | [View ↗](./V/voyage-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **W V Howe Hardware Ltd** | Ledger | [View ↗](./W/w-v-howe-hardware-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **WEF Care** | Ledger | [View ↗](./W/wef-care.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Wainfleet Care Home** | Ledger | [View ↗](./W/wainfleet-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Wallfield House Residential Home** | Ledger | [View ↗](./W/wallfield-house-residential-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Water Plus Limited** | Ledger | [View ↗](./W/water-plus-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Waterman Aspen Ltd** | Ledger | [View ↗](./W/waterman-aspen-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Watford House Nursing Home** | Ledger | [View ↗](./W/watford-house-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Weightmans LLP** | Ledger | [View ↗](./W/weightmans-llp.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Welbeck Estates Co Ltd** | Ledger | [View ↗](./W/welbeck-estates-co-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Wellbeing Clinics Uk Ltd** | Ledger | [View ↗](./W/wellbeing-clinics-uk-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Welltex LTD** | Ledger | [View ↗](./W/welltex-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Wessex Lift Company** | Ledger | [View ↗](./W/wessex-lift-company.md) |
-| 🟢 | `2026-05-08 17:40:49` | **West Park School** | Ledger | [View ↗](./W/west-park-school.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Western Cars Company Derby Ltd** | Ledger | [View ↗](./W/western-cars-company-derby-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Western Mount Lodge** | Ledger | [View ↗](./W/western-mount-lodge.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Wheelplant Ltd** | Ledger | [View ↗](./W/wheelplant-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **White Orchid Care Marston Moretaine** | Ledger | [View ↗](./W/white-orchid-care-marston-moretaine.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Whittington Care Centre** | Ledger | [View ↗](./W/whittington-care-centre.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Whitworks Adventures in Theatre** | Ledger | [View ↗](./W/whitworks-adventures-in-theatre.md) |
-| 🟢 | `2026-05-08 17:40:49` | **William Freer Limited** | Ledger | [View ↗](./W/william-freer-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **William Henry Smith School** | Ledger | [View ↗](./W/william-henry-smith-school.md) |
-| 🟢 | `2026-05-08 17:40:49` | **William Twigg Matlock Ltd** | Ledger | [View ↗](./W/william-twigg-matlock-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Willows Care Home** | Ledger | [View ↗](./W/willows-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Willows Residential Care Home** | Ledger | [View ↗](./W/willows-residential-care-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Willowstone Care** | Ledger | [View ↗](./W/willowstone-care.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Woodlands Nursing Home** | Ledger | [View ↗](./W/woodlands-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Woodville Nursing Home** | Ledger | [View ↗](./W/woodville-nursing-home.md) |
-| 🟢 | `2026-05-08 17:40:49` | **YESSS A Electrical Ltd** | Ledger | [View ↗](./Y/yesss-a-electrical-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Your Chapter Limited** | Ledger | [View ↗](./Y/your-chapter-limited.md) |
-| 🟢 | `2026-05-08 17:40:49` | **Your Health Ltd** | Ledger | [View ↗](./Y/your-health-ltd.md) |
-| 🟢 | `2026-05-08 17:40:49` | **one time-individual-CHAPS** | Ledger | [View ↗](./O/one-time-individual-chaps.md) |
+| 🟢 | `2026-05-11 08:59:54` | **24 x 7 Limited** | Ledger | [View ↗](./2/24-x-7-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **A & S Bearings & Transmissions Ltd** | Ledger | [View ↗](./A/a---s-bearings---transmissions-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **A Carter Electrical Ltd** | Ledger | [View ↗](./A/a-carter-electrical-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **A Line (Chesterfield) Ltd** | Ledger | [View ↗](./A/a-line--chesterfield--ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **A Wandless Sign Services Ltd** | Ledger | [View ↗](./A/a-wandless-sign-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **A2Z Cars** | Ledger | [View ↗](./A/a2z-cars.md) |
+| 🟢 | `2026-05-11 08:59:54` | **ACS Roofing Services** | Ledger | [View ↗](./A/acs-roofing-services.md) |
+| 🟢 | `2026-05-11 08:59:54` | **AECOM Infrastructure n Environment** | Ledger | [View ↗](./A/aecom-infrastructure-n-environment.md) |
+| 🟢 | `2026-05-11 08:59:54` | **AECOM Ltd** | Ledger | [View ↗](./A/aecom-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **AIM Awards** | Ledger | [View ↗](./A/aim-awards.md) |
+| 🟢 | `2026-05-11 08:59:54` | **AMION Consulting Ltd** | Ledger | [View ↗](./A/amion-consulting-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **ANEW Young People Services Ltd** | Ledger | [View ↗](./A/anew-young-people-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **AR Travel** | Ledger | [View ↗](./A/ar-travel.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Aaztec Associates Limited** | Ledger | [View ↗](./A/aaztec-associates-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Abbey Green Therapeutic Childrens** | Ledger | [View ↗](./A/abbey-green-therapeutic-childrens.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Abbeydale** | Ledger | [View ↗](./A/abbeydale.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Above N Beyond Ltd** | Ledger | [View ↗](./A/above-n-beyond-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Absolute Childrens Services Ltd** | Ledger | [View ↗](./A/absolute-childrens-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Access UK Ltd** | Ledger | [View ↗](./A/access-uk-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ace Janitorial Supplies Ltd** | Ledger | [View ↗](./A/ace-janitorial-supplies-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Achieve Together Ltd** | Ledger | [View ↗](./A/achieve-together-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Action for Children** | Ledger | [View ↗](./A/action-for-children.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Active Care Organisation Ltd** | Ledger | [View ↗](./A/active-care-organisation-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Adam Suffolk Flat Roofing Ltd** | Ledger | [View ↗](./A/adam-suffolk-flat-roofing-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Adnan Sikander - A1 Taxis Derby Ltd** | Ledger | [View ↗](./A/adnan-sikander---a1-taxis-derby-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Affinity Fostering** | Ledger | [View ↗](./A/affinity-fostering.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Agrade Community Care Services Ltd** | Ledger | [View ↗](./A/agrade-community-care-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ahavah Healthcare Ltd** | Ledger | [View ↗](./A/ahavah-healthcare-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Albatross Cars** | Ledger | [View ↗](./A/albatross-cars.md) |
+| 🟢 | `2026-05-11 08:59:54` | **All Purpose Cleaning &** | Ledger | [View ↗](./A/all-purpose-cleaning--.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Amber Lodge Nursing Home** | Ledger | [View ↗](./A/amber-lodge-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Amber Taxis Alfreton Ltd** | Ledger | [View ↗](./A/amber-taxis-alfreton-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Amethyst Care and Support Group** | Ledger | [View ↗](./A/amethyst-care-and-support-group.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Amey OW Ltd** | Ledger | [View ↗](./A/amey-ow-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Anand Mishra** | Ledger | [View ↗](./A/anand-mishra.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Anchor Hanover Group** | Ledger | [View ↗](./A/anchor-hanover-group.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Andrew Thomson** | Ledger | [View ↗](./A/andrew-thomson.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Andrews Of Tideswell Ltd** | Ledger | [View ↗](./A/andrews-of-tideswell-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Antony Prakash** | Ledger | [View ↗](./A/antony-prakash.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Apex Care Centre** | Ledger | [View ↗](./A/apex-care-centre.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Appleford Limited** | Ledger | [View ↗](./A/appleford-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Arden Winch and Co Ltd** | Ledger | [View ↗](./A/arden-winch-and-co-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Aria Healthcare Group Ltd** | Ledger | [View ↗](./A/aria-healthcare-group-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Arriva North West Ltd** | Ledger | [View ↗](./A/arriva-north-west-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Arrow County Supplies Ltd** | Ledger | [View ↗](./A/arrow-county-supplies-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Art Of Brilliance Ltd** | Ledger | [View ↗](./A/art-of-brilliance-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ashbourne Primary School** | Ledger | [View ↗](./A/ashbourne-primary-school.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ashbrook Centre** | Ledger | [View ↗](./A/ashbrook-centre.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ashbrook Roofing and Supplies Ltd** | Ledger | [View ↗](./A/ashbrook-roofing-and-supplies-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ashcroft Nursing Home** | Ledger | [View ↗](./A/ashcroft-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ashefields Care Home** | Ledger | [View ↗](./A/ashefields-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ashfields** | Ledger | [View ↗](./A/ashfields.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ashgate Care Ltd** | Ledger | [View ↗](./A/ashgate-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ashleigh** | Ledger | [View ↗](./A/ashleigh.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ashwood Children’s Care Home Ltd** | Ledger | [View ↗](./A/ashwood-children---s-care-home-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Aspire Health & Care Limited** | Ledger | [View ↗](./A/aspire-health---care-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Aspire Pathway Group** | Ledger | [View ↗](./A/aspire-pathway-group.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Autism East Mids** | Ledger | [View ↗](./A/autism-east-mids.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Autism Support and Care** | Ledger | [View ↗](./A/autism-support-and-care.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Autumn Grange** | Ledger | [View ↗](./A/autumn-grange.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Awami Travel Ltd** | Ledger | [View ↗](./A/awami-travel-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **BESTuition Limited** | Ledger | [View ↗](./B/bestuition-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Bakewell and Eyam Comm Transport** | Ledger | [View ↗](./B/bakewell-and-eyam-comm-transport.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Barnardos** | Ledger | [View ↗](./B/barnardos.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Barnfield Care Home** | Ledger | [View ↗](./B/barnfield-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Be My Family Fostering** | Ledger | [View ↗](./B/be-my-family-fostering.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Bearwardcote Hall Residential Home** | Ledger | [View ↗](./B/bearwardcote-hall-residential-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Beaumont House Hucknall** | Ledger | [View ↗](./B/beaumont-house-hucknall.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Beech House Care Home** | Ledger | [View ↗](./B/beech-house-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Belper School** | Ledger | [View ↗](./B/belper-school.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Belper Window Cleaners** | Ledger | [View ↗](./B/belper-window-cleaners.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Belvedere House** | Ledger | [View ↗](./B/belvedere-house.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Berry Hill Primary School** | Ledger | [View ↗](./B/berry-hill-primary-school.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Birchwood Homecaring Services Ltd** | Ledger | [View ↗](./B/birchwood-homecaring-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Bloom Procurement Services Ltd** | Ledger | [View ↗](./B/bloom-procurement-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Blue Kite Children Care Ltd** | Ledger | [View ↗](./B/blue-kite-children-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Blue Mountain Homes Ltd** | Ledger | [View ↗](./B/blue-mountain-homes-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Blue Square Residential Ltd** | Ledger | [View ↗](./B/blue-square-residential-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Bluebird Care East Staff and SD** | Ledger | [View ↗](./B/bluebird-care-east-staff-and-sd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Bolsover District Council** | Ledger | [View ↗](./B/bolsover-district-council.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Bolsover Woodlands Enterprise Ltd** | Ledger | [View ↗](./B/bolsover-woodlands-enterprise-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Brackenfield Hall** | Ledger | [View ↗](./B/brackenfield-hall.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Bradcare Ltd** | Ledger | [View ↗](./B/bradcare-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Bramble Lodge** | Ledger | [View ↗](./B/bramble-lodge.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Breedon Trading Ltd** | Ledger | [View ↗](./B/breedon-trading-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Briar Close HOP- Borrowash** | Ledger | [View ↗](./B/briar-close-hop--borrowash.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Bright Opportunities** | Ledger | [View ↗](./B/bright-opportunities.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Brimington Care Home** | Ledger | [View ↗](./B/brimington-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **British Telecommunications** | Ledger | [View ↗](./B/british-telecommunications.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Broad Oak Properties Ltd** | Ledger | [View ↗](./B/broad-oak-properties-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Bronbury Services Ltd** | Ledger | [View ↗](./B/bronbury-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Brookfields Day Nursery** | Ledger | [View ↗](./B/brookfields-day-nursery.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Brookholme Care Home** | Ledger | [View ↗](./B/brookholme-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Brookholme Croft Ltd** | Ledger | [View ↗](./B/brookholme-croft-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Brookview Nursing Home Ltd** | Ledger | [View ↗](./B/brookview-nursing-home-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Broughton Lodge** | Ledger | [View ↗](./B/broughton-lodge.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Bss Group Plc** | Ledger | [View ↗](./B/bss-group-plc.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Bupa Care** | Ledger | [View ↗](./B/bupa-care.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Burton College** | Ledger | [View ↗](./B/burton-college.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Burton Court Care Home** | Ledger | [View ↗](./B/burton-court-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Busy Bees Nurseries Limited - Burnt** | Ledger | [View ↗](./B/busy-bees-nurseries-limited---burnt.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Butterley House** | Ledger | [View ↗](./B/butterley-house.md) |
+| 🟢 | `2026-05-11 08:59:54` | **By the Bridge** | Ledger | [View ↗](./B/by-the-bridge.md) |
+| 🟢 | `2026-05-11 08:59:54` | **C We R Here (CIC)** | Ledger | [View ↗](./C/c-we-r-here--cic-.md) |
+| 🟢 | `2026-05-11 08:59:54` | **C We R Here Youth Limited** | Ledger | [View ↗](./C/c-we-r-here-youth-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **CL And C Britland Contractors Ltd** | Ledger | [View ↗](./C/cl-and-c-britland-contractors-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **CY4OR Legal Ltd** | Ledger | [View ↗](./C/cy4or-legal-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Cae Melyn Group Home** | Ledger | [View ↗](./C/cae-melyn-group-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Caldecott Foundation** | Ledger | [View ↗](./C/caldecott-foundation.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Cambian Childcare Ltd** | Ledger | [View ↗](./C/cambian-childcare-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Capstone Foster Care** | Ledger | [View ↗](./C/capstone-foster-care.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Care Relief Team** | Ledger | [View ↗](./C/care-relief-team.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Care in Mind** | Ledger | [View ↗](./C/care-in-mind.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Caring Hands** | Ledger | [View ↗](./C/caring-hands.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Carter Brown** | Ledger | [View ↗](./C/carter-brown.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Castle Donington College** | Ledger | [View ↗](./C/castle-donington-college.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Castle View Primary School** | Ledger | [View ↗](./C/castle-view-primary-school.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Cedar Lodge Residential Home** | Ledger | [View ↗](./C/cedar-lodge-residential-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Cedars and Larches Care Ltd** | Ledger | [View ↗](./C/cedars-and-larches-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Cedarways Residential Child Care** | Ledger | [View ↗](./C/cedarways-residential-child-care.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Cera Care Ltd** | Ledger | [View ↗](./C/cera-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Charles Endirect Ltd** | Ledger | [View ↗](./C/charles-endirect-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Charnwood Lodge** | Ledger | [View ↗](./C/charnwood-lodge.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Chartered Trading Standards Institu** | Ledger | [View ↗](./C/chartered-trading-standards-institu.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Chatsworth Grange Nursing Home** | Ledger | [View ↗](./C/chatsworth-grange-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Chatsworth Lodge Nursing Home** | Ledger | [View ↗](./C/chatsworth-lodge-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Chellaston Academy** | Ledger | [View ↗](./C/chellaston-academy.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Chesterfield Area Office (CAYA)** | Ledger | [View ↗](./C/chesterfield-area-office--caya-.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Chesterfield Borough Council Cashie** | Ledger | [View ↗](./C/chesterfield-borough-council-cashie.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Chesterfield Home Care Ltd** | Ledger | [View ↗](./C/chesterfield-home-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Chic Cleaning Services Ltd** | Ledger | [View ↗](./C/chic-cleaning-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Childrens Family Trust** | Ledger | [View ↗](./C/childrens-family-trust.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Christina Corbett** | Ledger | [View ↗](./C/christina-corbett.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Chrysalis Consortium** | Ledger | [View ↗](./C/chrysalis-consortium.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Cintra Ltd** | Ledger | [View ↗](./C/cintra-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Circuit Electrical Testing Ltd** | Ledger | [View ↗](./C/circuit-electrical-testing-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Citron Hygiene UK Ltd** | Ledger | [View ↗](./C/citron-hygiene-uk-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **City Electrical Factors Ltd** | Ledger | [View ↗](./C/city-electrical-factors-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **City and Guilds** | Ledger | [View ↗](./C/city-and-guilds.md) |
+| 🟢 | `2026-05-11 08:59:54` | **City of Derby Academy** | Ledger | [View ↗](./C/city-of-derby-academy.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Civica Uk Limited** | Ledger | [View ↗](./C/civica-uk-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Clarity Travel Management** | Ledger | [View ↗](./C/clarity-travel-management.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Clay Cross - High St (AC)** | Ledger | [View ↗](./C/clay-cross---high-st--ac-.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Claydon Lodge Nursing Home** | Ledger | [View ↗](./C/claydon-lodge-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Cliff House** | Ledger | [View ↗](./C/cliff-house.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Codnor Park Residential Home** | Ledger | [View ↗](./C/codnor-park-residential-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Collins Donnelly Consultancy** | Ledger | [View ↗](./C/collins-donnelly-consultancy.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Comensura Ltd** | Ledger | [View ↗](./C/comensura-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Community Life Choices** | Ledger | [View ↗](./C/community-life-choices.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Compass Childrens Homes  LTD** | Ledger | [View ↗](./C/compass-childrens-homes--ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Compass Fostering Central Limited** | Ledger | [View ↗](./C/compass-fostering-central-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Compass Minerals UK Ltd** | Ledger | [View ↗](./C/compass-minerals-uk-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Concertus Derbyshire Limited** | Ledger | [View ↗](./C/concertus-derbyshire-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Connex Community Support** | Ledger | [View ↗](./C/connex-community-support.md) |
+| 🟢 | `2026-05-11 08:59:54` | **County Fencing** | Ledger | [View ↗](./C/county-fencing.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Court Catering Equipment** | Ledger | [View ↗](./C/court-catering-equipment.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Crescent Cars** | Ledger | [View ↗](./C/crescent-cars.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Crown Exec Derby Travel Ltd** | Ledger | [View ↗](./C/crown-exec-derby-travel-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Crystal Care Solutions Ltd** | Ledger | [View ↗](./C/crystal-care-solutions-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Cyber Media Solutions Ltd** | Ledger | [View ↗](./C/cyber-media-solutions-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Cygnet Care Services Ltd** | Ledger | [View ↗](./C/cygnet-care-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **DC Ada Belfield Centre** | Ledger | [View ↗](./D/dc-ada-belfield-centre.md) |
+| 🟢 | `2026-05-11 08:59:54` | **DCMS Building Digital UK (BDUK)** | Ledger | [View ↗](./D/dcms-building-digital-uk--bduk-.md) |
+| 🟢 | `2026-05-11 08:59:54` | **DJB Care Services Limited** | Ledger | [View ↗](./D/djb-care-services-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **DMG Asbestos Management Ltd** | Ledger | [View ↗](./D/dmg-asbestos-management-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **DNA Care Services Ltd** | Ledger | [View ↗](./D/dna-care-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **DTW Communications and** | Ledger | [View ↗](./D/dtw-communications-and.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Daisychain Homecare Services** | Ledger | [View ↗](./D/daisychain-homecare-services.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Daniel Currie** | Ledger | [View ↗](./D/daniel-currie.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Darnall Grange Nursing Home** | Ledger | [View ↗](./D/darnall-grange-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **David Lewis Centre for Epilepsy** | Ledger | [View ↗](./D/david-lewis-centre-for-epilepsy.md) |
+| 🟢 | `2026-05-11 08:59:54` | **De-Luxe Coach Services** | Ledger | [View ↗](./D/de-luxe-coach-services.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Derby City Council (Finance)** | Ledger | [View ↗](./D/derby-city-council--finance-.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Derby Heights** | Ledger | [View ↗](./D/derby-heights.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Derbyshire Community Health** | Ledger | [View ↗](./D/derbyshire-community-health.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Desire Care** | Ledger | [View ↗](./D/desire-care.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Disability Syndicate Ltd** | Ledger | [View ↗](./D/disability-syndicate-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Donald Ward Limited T/A Ward** | Ledger | [View ↗](./D/donald-ward-limited-t-a-ward.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Douglas Court Care Home Ltd** | Ledger | [View ↗](./D/douglas-court-care-home-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Dovelin Cars** | Ledger | [View ↗](./D/dovelin-cars.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Dronfield Henry Fanshawe School** | Ledger | [View ↗](./D/dronfield-henry-fanshawe-school.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Duckmanton Mini-Bus Hire Ltd** | Ledger | [View ↗](./D/duckmanton-mini-bus-hire-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **EMH Care and Support LTD** | Ledger | [View ↗](./E/emh-care-and-support-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **EMH Group** | Ledger | [View ↗](./E/emh-group.md) |
+| 🟢 | `2026-05-11 08:59:54` | **East Midlands Homecare Ltd** | Ledger | [View ↗](./E/east-midlands-homecare-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Eastern Family Service Ltd** | Ledger | [View ↗](./E/eastern-family-service-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Eckington Court Care Home** | Ledger | [View ↗](./E/eckington-court-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Eden Holme Care** | Ledger | [View ↗](./E/eden-holme-care.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Edf Energy Customers Ltd** | Ledger | [View ↗](./E/edf-energy-customers-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Edwards Metal Windows** | Ledger | [View ↗](./E/edwards-metal-windows.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Electricity North West Limited** | Ledger | [View ↗](./E/electricity-north-west-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Elis UK Limited** | Ledger | [View ↗](./E/elis-uk-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Elm Lodge Care Home** | Ledger | [View ↗](./E/elm-lodge-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Emcat Ltd** | Ledger | [View ↗](./E/emcat-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Environtec ltd** | Ledger | [View ↗](./E/environtec-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Equilibrium Healthcare** | Ledger | [View ↗](./E/equilibrium-healthcare.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Erewash Borough Council** | Ledger | [View ↗](./E/erewash-borough-council.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Erewash Community Transport Ltd** | Ledger | [View ↗](./E/erewash-community-transport-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Esland North Limited** | Ledger | [View ↗](./E/esland-north-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Euclid Ltd** | Ledger | [View ↗](./E/euclid-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Everything Everywhere Ltd** | Ledger | [View ↗](./E/everything-everywhere-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Excel Fostering Ltd** | Ledger | [View ↗](./E/excel-fostering-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Excell Home Care Ltd** | Ledger | [View ↗](./E/excell-home-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Express of Chesterfield Ltd** | Ledger | [View ↗](./E/express-of-chesterfield-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Eyam Domiciliary Service Ltd** | Ledger | [View ↗](./E/eyam-domiciliary-service-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **F E Khan** | Ledger | [View ↗](./F/f-e-khan.md) |
+| 🟢 | `2026-05-11 08:59:54` | **FHP Property Consultants** | Ledger | [View ↗](./F/fhp-property-consultants.md) |
+| 🟢 | `2026-05-11 08:59:54` | **FI Real Estate Management Ltd** | Ledger | [View ↗](./F/fi-real-estate-management-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Fairview Childrens Home** | Ledger | [View ↗](./F/fairview-childrens-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Fieldings** | Ledger | [View ↗](./F/fieldings.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Fieldwell Energy Services** | Ledger | [View ↗](./F/fieldwell-energy-services.md) |
+| 🟢 | `2026-05-11 08:59:54` | **First 4 Supplies Ltd** | Ledger | [View ↗](./F/first-4-supplies-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **First Blue Healthcare Limited** | Ledger | [View ↗](./F/first-blue-healthcare-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **FitzRoy Support** | Ledger | [View ↗](./F/fitzroy-support.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Five Healthgroup Ltd T/A** | Ledger | [View ↗](./F/five-healthgroup-ltd-t-a.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Five Rivers Child Care Limited** | Ledger | [View ↗](./F/five-rivers-child-care-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Flagg Methodist Church** | Ledger | [View ↗](./F/flagg-methodist-church.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Flogas Uk Ltd** | Ledger | [View ↗](./F/flogas-uk-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Footsteps to Futures Limited** | Ledger | [View ↗](./F/footsteps-to-futures-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Forest Way School** | Ledger | [View ↗](./F/forest-way-school.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Foster Care Associates Limited** | Ledger | [View ↗](./F/foster-care-associates-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Fostering People Ltd** | Ledger | [View ↗](./F/fostering-people-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Fosterplus Ltd** | Ledger | [View ↗](./F/fosterplus-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Freeman College** | Ledger | [View ↗](./F/freeman-college.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Fusion Fostering** | Ledger | [View ↗](./F/fusion-fostering.md) |
+| 🟢 | `2026-05-11 08:59:54` | **G D Golding Skip Hire Ltd** | Ledger | [View ↗](./G/g-d-golding-skip-hire-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Gailarde Ltd** | Ledger | [View ↗](./G/gailarde-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Gas Training Solutions Ltd** | Ledger | [View ↗](./G/gas-training-solutions-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Genesis Care Home** | Ledger | [View ↗](./G/genesis-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Gentle Hands Home Care** | Ledger | [View ↗](./G/gentle-hands-home-care.md) |
+| 🟢 | `2026-05-11 08:59:54` | **George Peach** | Ledger | [View ↗](./G/george-peach.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Gilvar Lining Ltd** | Ledger | [View ↗](./G/gilvar-lining-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Glenholme - Long Eaton** | Ledger | [View ↗](./G/glenholme---long-eaton.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Glossop Childrens Centre** | Ledger | [View ↗](./G/glossop-childrens-centre.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Godfrey Barnes Care SL Limited** | Ledger | [View ↗](./G/godfrey-barnes-care-sl-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Golden Years Support Services Ltd** | Ledger | [View ↗](./G/golden-years-support-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Goldwell Manor** | Ledger | [View ↗](./G/goldwell-manor.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Gordon Mckeaveney-Davis** | Ledger | [View ↗](./G/gordon-mckeaveney-davis.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Gorse Hill Residential Home** | Ledger | [View ↗](./G/gorse-hill-residential-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Goyt Valley Carers Ltd** | Ledger | [View ↗](./G/goyt-valley-carers-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Graham Key Conservation and** | Ledger | [View ↗](./G/graham-key-conservation-and.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Greater Manchester Independent Scho** | Ledger | [View ↗](./G/greater-manchester-independent-scho.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Green Nursing Home** | Ledger | [View ↗](./G/green-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Gresley House Care Home** | Ledger | [View ↗](./G/gresley-house-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Grove Social Care Ltd** | Ledger | [View ↗](./G/grove-social-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Guardian Care Homes Caledonia Ltd** | Ledger | [View ↗](./G/guardian-care-homes-caledonia-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Gutu Mirror Healthcare** | Ledger | [View ↗](./G/gutu-mirror-healthcare.md) |
+| 🟢 | `2026-05-11 08:59:54` | **HSBC Merchant Services LLP** | Ledger | [View ↗](./H/hsbc-merchant-services-llp.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Haddon Hall Care Home** | Ledger | [View ↗](./H/haddon-hall-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Haddon House Nursing Home** | Ledger | [View ↗](./H/haddon-house-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Haddon House Nursing Home (Ilkeston** | Ledger | [View ↗](./H/haddon-house-nursing-home--ilkeston.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Hallmashire Care Home Ltd** | Ledger | [View ↗](./H/hallmashire-care-home-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Handley Care Services** | Ledger | [View ↗](./H/handley-care-services.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Hannah B Walker** | Ledger | [View ↗](./H/hannah-b-walker.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Harpurs Coaches Ltd** | Ledger | [View ↗](./H/harpurs-coaches-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Harriet Jones - St Johns Buildings** | Ledger | [View ↗](./H/harriet-jones---st-johns-buildings.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Haven Residential Home** | Ledger | [View ↗](./H/haven-residential-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Hazeldene House** | Ledger | [View ↗](./H/hazeldene-house.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Hazelgrove Care Home** | Ledger | [View ↗](./H/hazelgrove-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Healthy Living Centre** | Ledger | [View ↗](./H/healthy-living-centre.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Heather Vale** | Ledger | [View ↗](./H/heather-vale.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Helen L Williams** | Ledger | [View ↗](./H/helen-l-williams.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Heritage Care** | Ledger | [View ↗](./H/heritage-care.md) |
+| 🟢 | `2026-05-11 08:59:54` | **High Peak Borough Council** | Ledger | [View ↗](./H/high-peak-borough-council.md) |
+| 🟢 | `2026-05-11 08:59:54` | **High Peak Carers Ltd** | Ledger | [View ↗](./H/high-peak-carers-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Highwire Testing Services Ltd** | Ledger | [View ↗](./H/highwire-testing-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Hill Care Ltd (Springbank House)** | Ledger | [View ↗](./H/hill-care-ltd--springbank-house-.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Hill House Care Home** | Ledger | [View ↗](./H/hill-house-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Hilltop Lodge Chapeltown** | Ledger | [View ↗](./H/hilltop-lodge-chapeltown.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Hirst Signs Ltd** | Ledger | [View ↗](./H/hirst-signs-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Holdsworth Food Service** | Ledger | [View ↗](./H/holdsworth-food-service.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Hollin Knowle** | Ledger | [View ↗](./H/hollin-knowle.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Hollybank House Care Home** | Ledger | [View ↗](./H/hollybank-house-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Hollybank Nursing Home** | Ledger | [View ↗](./H/hollybank-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Holmewood Care Home** | Ledger | [View ↗](./H/holmewood-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Holywell Childrens Services Ltd** | Ledger | [View ↗](./H/holywell-childrens-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Home Instead High Peak** | Ledger | [View ↗](./H/home-instead-high-peak.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Home2Home with Care Ltd** | Ledger | [View ↗](./H/home2home-with-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Homecare Domicilliary & Domestic** | Ledger | [View ↗](./H/homecare-domicilliary---domestic.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Homes Together LTD** | Ledger | [View ↗](./H/homes-together-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Hope at Hand** | Ledger | [View ↗](./H/hope-at-hand.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Hopscotch Care Limited** | Ledger | [View ↗](./H/hopscotch-care-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Horizon Care Group** | Ledger | [View ↗](./H/horizon-care-group.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Housing 21 - Care** | Ledger | [View ↗](./H/housing-21---care.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Howes Percival LLP** | Ledger | [View ↗](./H/howes-percival-llp.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Hulland CofE Primary School** | Ledger | [View ↗](./H/hulland-cofe-primary-school.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Huws Gray Group** | Ledger | [View ↗](./H/huws-gray-group.md) |
+| 🟢 | `2026-05-11 08:59:54` | **I Smith** | Ledger | [View ↗](./I/i-smith.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ian Garlick Contracting Services** | Ledger | [View ↗](./I/ian-garlick-contracting-services.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Idridgehay Community Association** | Ledger | [View ↗](./I/idridgehay-community-association.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Imperial Laundry** | Ledger | [View ↗](./I/imperial-laundry.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Inclusion Housing CIC Ltd** | Ledger | [View ↗](./I/inclusion-housing-cic-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Independent Care Link Ltd** | Ledger | [View ↗](./I/independent-care-link-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Initial Washroom** | Ledger | [View ↗](./I/initial-washroom.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Insight Direct Uk Ltd** | Ledger | [View ↗](./I/insight-direct-uk-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Intacare Ltd** | Ledger | [View ↗](./I/intacare-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Integrative Supported Living Care L** | Ledger | [View ↗](./I/integrative-supported-living-care-l.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ivie Lodge Limited** | Ledger | [View ↗](./I/ivie-lodge-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ivonbrook** | Ledger | [View ↗](./I/ivonbrook.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ivonbrook-Darley Hall Resident Home** | Ledger | [View ↗](./I/ivonbrook-darley-hall-resident-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ivy House Fostering Agency Ltd** | Ledger | [View ↗](./I/ivy-house-fostering-agency-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **J Booth Millward Plant Ltd** | Ledger | [View ↗](./J/j-booth-millward-plant-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **J C Balls And Sons LTD** | Ledger | [View ↗](./J/j-c-balls-and-sons-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **J C Mills Property Management** | Ledger | [View ↗](./J/j-c-mills-property-management.md) |
+| 🟢 | `2026-05-11 08:59:54` | **JS Supported Living Services Ltd** | Ledger | [View ↗](./J/js-supported-living-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Jackie Dennis** | Ledger | [View ↗](./J/jackie-dennis.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Jacobs UK Ltd** | Ledger | [View ↗](./J/jacobs-uk-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Jairos Fusire** | Ledger | [View ↗](./J/jairos-fusire.md) |
+| 🟢 | `2026-05-11 08:59:54` | **James Gardiner** | Ledger | [View ↗](./J/james-gardiner.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Jason Hylton Court** | Ledger | [View ↗](./J/jason-hylton-court.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Jay Fostering Limited** | Ledger | [View ↗](./J/jay-fostering-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Jens Xplorers Ltd** | Ledger | [View ↗](./J/jens-xplorers-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Jigsaw Therapeutic Care Ltd** | Ledger | [View ↗](./J/jigsaw-therapeutic-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Just a little company** | Ledger | [View ↗](./J/just-a-little-company.md) |
+| 🟢 | `2026-05-11 08:59:54` | **K Neville Ltd** | Ledger | [View ↗](./K/k-neville-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **KE 24/7 Staffing Solutions Ltd** | Ledger | [View ↗](./K/ke-24-7-staffing-solutions-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Kent County Council** | Ledger | [View ↗](./K/kent-county-council.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Kevin Boole** | Ledger | [View ↗](./K/kevin-boole.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Keys Group Ltd** | Ledger | [View ↗](./K/keys-group-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Keystone Chesterfield Ltd** | Ledger | [View ↗](./K/keystone-chesterfield-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Knowle Hill Residential Home** | Ledger | [View ↗](./K/knowle-hill-residential-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **LAM Services Ltd** | Ledger | [View ↗](./L/lam-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **La Petite Academy** | Ledger | [View ↗](./L/la-petite-academy.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Lady Manners School** | Ledger | [View ↗](./L/lady-manners-school.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ladywood Primary School** | Ledger | [View ↗](./L/ladywood-primary-school.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Lanes Group Plc** | Ledger | [View ↗](./L/lanes-group-plc.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Langdale Lodge Home (Chesterfield)** | Ledger | [View ↗](./L/langdale-lodge-home--chesterfield-.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Langley Mill Contract Flooring** | Ledger | [View ↗](./L/langley-mill-contract-flooring.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Laurels and Limes Care Home** | Ledger | [View ↗](./L/laurels-and-limes-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Leigh Day Client Account** | Ledger | [View ↗](./L/leigh-day-client-account.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Leonard Cheshire Services CIC** | Ledger | [View ↗](./L/leonard-cheshire-services-cic.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Lets Talk** | Ledger | [View ↗](./L/lets-talk.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Liberty House** | Ledger | [View ↗](./L/liberty-house.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Lifetime Home Care Ltd** | Ledger | [View ↗](./L/lifetime-home-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Lifeways** | Ledger | [View ↗](./L/lifeways.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Lilyrose Care Group Ltd** | Ledger | [View ↗](./L/lilyrose-care-group-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Lime Tree Care Ltd** | Ledger | [View ↗](./L/lime-tree-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Linden House Family Centre** | Ledger | [View ↗](./L/linden-house-family-centre.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Lion Cars Ltd** | Ledger | [View ↗](./L/lion-cars-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Little Transport Ltd** | Ledger | [View ↗](./L/little-transport-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Littlemoor Care Home limited** | Ledger | [View ↗](./L/littlemoor-care-home-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Liverpool Uni Hospital NHS FT** | Ledger | [View ↗](./L/liverpool-uni-hospital-nhs-ft.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Lovehands Care Services Ltd** | Ledger | [View ↗](./L/lovehands-care-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **M Markovitz Limited** | Ledger | [View ↗](./M/m-markovitz-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **MGB Care Services Ltd** | Ledger | [View ↗](./M/mgb-care-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **MPC Services Uk Ltd** | Ledger | [View ↗](./M/mpc-services-uk-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Mansoor Ahmed** | Ledger | [View ↗](./M/mansoor-ahmed.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Markham House** | Ledger | [View ↗](./M/markham-house.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Marple Lodge Care Home** | Ledger | [View ↗](./M/marple-lodge-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Matchtech Group UK Ltd** | Ledger | [View ↗](./M/matchtech-group-uk-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Meadow Grange Care Home** | Ledger | [View ↗](./M/meadow-grange-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Meadows Care Home** | Ledger | [View ↗](./M/meadows-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Med Care Home Services Ltd** | Ledger | [View ↗](./M/med-care-home-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Mediline Home Care Ltd** | Ledger | [View ↗](./M/mediline-home-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Mencap** | Ledger | [View ↗](./M/mencap.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Meridian Healthcare Ltd** | Ledger | [View ↗](./M/meridian-healthcare-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Methodist Homes For The Aged** | Ledger | [View ↗](./M/methodist-homes-for-the-aged.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Metropolitan care solutions Limited** | Ledger | [View ↗](./M/metropolitan-care-solutions-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Midlands Partnership NHS Foundation** | Ledger | [View ↗](./M/midlands-partnership-nhs-foundation.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Midshires Healthcare Ltd** | Ledger | [View ↗](./M/midshires-healthcare-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Milford House Nursing Home** | Ledger | [View ↗](./M/milford-house-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Millfield Care Home** | Ledger | [View ↗](./M/millfield-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Millington Springs Nursing** | Ledger | [View ↗](./M/millington-springs-nursing.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Monarch Healthcare Ltd** | Ledger | [View ↗](./M/monarch-healthcare-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Monk Education Associates** | Ledger | [View ↗](./M/monk-education-associates.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Moore Care (Registered) Ltd** | Ledger | [View ↗](./M/moore-care--registered--ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Moore Care Limited** | Ledger | [View ↗](./M/moore-care-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Moorlands Nursing Home** | Ledger | [View ↗](./M/moorlands-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Morning Rise Supported Housing** | Ledger | [View ↗](./M/morning-rise-supported-housing.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Morton Grange Nursing Home** | Ledger | [View ↗](./M/morton-grange-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Mr Faisle Rashid** | Ledger | [View ↗](./M/mr-faisle-rashid.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Mr P S & Mrs Cyrstal Freeman** | Ledger | [View ↗](./M/mr-p-s---mrs-cyrstal-freeman.md) |
+| 🟢 | `2026-05-11 08:59:54` | **My Homecare** | Ledger | [View ↗](./M/my-homecare.md) |
+| 🟢 | `2026-05-11 08:59:54` | **My House Calow Ltd** | Ledger | [View ↗](./M/my-house-calow-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **NHS Pension Scheme Account** | Ledger | [View ↗](./N/nhs-pension-scheme-account.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Nardus Helthcare Ltd** | Ledger | [View ↗](./N/nardus-helthcare-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Nation Occupational Health Ltd** | Ledger | [View ↗](./N/nation-occupational-health-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **National Timber Group England Ltd** | Ledger | [View ↗](./N/national-timber-group-england-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **National World Publishing Ltd** | Ledger | [View ↗](./N/national-world-publishing-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Nethermoor Care Home** | Ledger | [View ↗](./N/nethermoor-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **New Focus Child Care Ltd** | Ledger | [View ↗](./N/new-focus-child-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **New Life Fostering Agency** | Ledger | [View ↗](./N/new-life-fostering-agency.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Newdon Health Care Ltd** | Ledger | [View ↗](./N/newdon-health-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Nexus Fostering Limited** | Ledger | [View ↗](./N/nexus-fostering-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Normanton Lodge** | Ledger | [View ↗](./N/normanton-lodge.md) |
+| 🟢 | `2026-05-11 08:59:54` | **North East Derbyshire District Coun** | Ledger | [View ↗](./N/north-east-derbyshire-district-coun.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Nottinghamshire County Council** | Ledger | [View ↗](./N/nottinghamshire-county-council.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Oaklands Care Home** | Ledger | [View ↗](./O/oaklands-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Oakwood Bungalows** | Ledger | [View ↗](./O/oakwood-bungalows.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Old Lodge Nursing Home** | Ledger | [View ↗](./O/old-lodge-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Old Post House** | Ledger | [View ↗](./O/old-post-house.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Old Vicarage Nursing Home** | Ledger | [View ↗](./O/old-vicarage-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Oldham Total Care Limited** | Ledger | [View ↗](./O/oldham-total-care-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **OnUp** | Ledger | [View ↗](./O/onup.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Oneness Children's Care Limited** | Ledger | [View ↗](./O/oneness-children-s-care-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Only care Blackwell LTD** | Ledger | [View ↗](./O/only-care-blackwell-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Operation Orphan** | Ledger | [View ↗](./O/operation-orphan.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Oracle Translation Limited** | Ledger | [View ↗](./O/oracle-translation-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Orcadia Residential Home** | Ledger | [View ↗](./O/orcadia-residential-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Osmaston Grange** | Ledger | [View ↗](./O/osmaston-grange.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Oxygen Finance Ltd** | Ledger | [View ↗](./O/oxygen-finance-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **PA Excavations Ltd** | Ledger | [View ↗](./P/pa-excavations-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **PHS Group Ltd** | Ledger | [View ↗](./P/phs-group-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Pace Fuelcare** | Ledger | [View ↗](./P/pace-fuelcare.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Palterton Primary School** | Ledger | [View ↗](./P/palterton-primary-school.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Paramount Children Care Ltd** | Ledger | [View ↗](./P/paramount-children-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Paresthesia Limited** | Ledger | [View ↗](./P/paresthesia-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **PartsPlus** | Ledger | [View ↗](./P/partsplus.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Pathways of Chesterfield** | Ledger | [View ↗](./P/pathways-of-chesterfield.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Paul Spencer** | Ledger | [View ↗](./P/paul-spencer.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Paxton House** | Ledger | [View ↗](./P/paxton-house.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Peak Home Assist** | Ledger | [View ↗](./P/peak-home-assist.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Peak Lodge (The Willows)** | Ledger | [View ↗](./P/peak-lodge--the-willows-.md) |
+| 🟢 | `2026-05-11 08:59:54` | **People Potential Possibilities** | Ledger | [View ↗](./P/people-potential-possibilities.md) |
+| 🟢 | `2026-05-11 08:59:54` | **People Who Foster Ltd** | Ledger | [View ↗](./P/people-who-foster-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Perrys - Head Office** | Ledger | [View ↗](./P/perrys---head-office.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Peter Byard Plant Hire Ltd** | Ledger | [View ↗](./P/peter-byard-plant-hire-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Peters Limited** | Ledger | [View ↗](./P/peters-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Phoenix Cars** | Ledger | [View ↗](./P/phoenix-cars.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Phoenix Community Care** | Ledger | [View ↗](./P/phoenix-community-care.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Phoenix Cottages Limited** | Ledger | [View ↗](./P/phoenix-cottages-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Pjs Private Hire** | Ledger | [View ↗](./P/pjs-private-hire.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Platform Childcare Ltd** | Ledger | [View ↗](./P/platform-childcare-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Police and Crime Commissioner** | Ledger | [View ↗](./P/police-and-crime-commissioner.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Post Office Ltd** | Ledger | [View ↗](./P/post-office-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Potens** | Ledger | [View ↗](./P/potens.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Precision Tree Care** | Ledger | [View ↗](./P/precision-tree-care.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Premier Nursing Agency Ltd** | Ledger | [View ↗](./P/premier-nursing-agency-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Presentation Sisters Care Centre** | Ledger | [View ↗](./P/presentation-sisters-care-centre.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Prime Life Ltd** | Ledger | [View ↗](./P/prime-life-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Prime Nurture Services Limited** | Ledger | [View ↗](./P/prime-nurture-services-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Prism Infosec** | Ledger | [View ↗](./P/prism-infosec.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Prism Medical UK Westholme Division** | Ledger | [View ↗](./P/prism-medical-uk-westholme-division.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Proactive Personnel Ltd** | Ledger | [View ↗](./P/proactive-personnel-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **QTS Education Recruitment** | Ledger | [View ↗](./Q/qts-education-recruitment.md) |
+| 🟢 | `2026-05-11 08:59:54` | **R C Developments** | Ledger | [View ↗](./R/r-c-developments.md) |
+| 🟢 | `2026-05-11 08:59:54` | **R J Lift Services Ltd** | Ledger | [View ↗](./R/r-j-lift-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **R Khan** | Ledger | [View ↗](./R/r-khan.md) |
+| 🟢 | `2026-05-11 08:59:54` | **R Stevenson** | Ledger | [View ↗](./R/r-stevenson.md) |
+| 🟢 | `2026-05-11 08:59:54` | **REACT Homecare Ltd** | Ledger | [View ↗](./R/react-homecare-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **REDACTED PERSONAL DATA** | Ledger | [View ↗](./R/redacted-personal-data.md) |
+| 🟢 | `2026-05-11 08:59:54` | **RPP Ltd** | Ledger | [View ↗](./R/rpp-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Rainbow Fostering Services Ltd** | Ledger | [View ↗](./R/rainbow-fostering-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Raisu & Amani Care Home Ltd** | Ledger | [View ↗](./R/raisu---amani-care-home-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Raja Safder Khan (Safs Cars)** | Ledger | [View ↗](./R/raja-safder-khan--safs-cars-.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ravensworth Care Home Ltd** | Ledger | [View ↗](./R/ravensworth-care-home-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Reach Housing And Enablement** | Ledger | [View ↗](./R/reach-housing-and-enablement.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Real Homecare Limited** | Ledger | [View ↗](./R/real-homecare-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Real Life Options** | Ledger | [View ↗](./R/real-life-options.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Redhill Academy Trust Shared Servic** | Ledger | [View ↗](./R/redhill-academy-trust-shared-servic.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Reed Talent Solutions Ltd** | Ledger | [View ↗](./R/reed-talent-solutions-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Resolute Care Ltd** | Ledger | [View ↗](./R/resolute-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Rexel Derby** | Ledger | [View ↗](./R/rexel-derby.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Richard Posner** | Ledger | [View ↗](./R/richard-posner.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Richford Motor Services Ltd** | Ledger | [View ↗](./R/richford-motor-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ridgewood House** | Ledger | [View ↗](./R/ridgewood-house.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Rise Above Care Ltd** | Ledger | [View ↗](./R/rise-above-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Rise Multi Academy Trust** | Ledger | [View ↗](./R/rise-multi-academy-trust.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Rite Directions Ltd** | Ledger | [View ↗](./R/rite-directions-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ritz Properties** | Ledger | [View ↗](./R/ritz-properties.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ropewalk Chambers** | Ledger | [View ↗](./R/ropewalk-chambers.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Rosliston Cars Ltd** | Ledger | [View ↗](./R/rosliston-cars-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Routes Healthcare** | Ledger | [View ↗](./R/routes-healthcare.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Roy Wright and Company Limited** | Ledger | [View ↗](./R/roy-wright-and-company-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Royal Manor Nursing Home** | Ledger | [View ↗](./R/royal-manor-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Russells Kirbymoorside Limited** | Ledger | [View ↗](./R/russells-kirbymoorside-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ruth Richards KCH Garden Square** | Ledger | [View ↗](./R/ruth-richards-kch-garden-square.md) |
+| 🟢 | `2026-05-11 08:59:54` | **S & L Electrical Ltd-In Liquidation** | Ledger | [View ↗](./S/s---l-electrical-ltd-in-liquidation.md) |
+| 🟢 | `2026-05-11 08:59:54` | **SB DRAINAGE SOLUTIONS LTD** | Ledger | [View ↗](./S/sb-drainage-solutions-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **SWARCO UK & Ireland Ltd** | Ledger | [View ↗](./S/swarco-uk---ireland-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Safe Cars** | Ledger | [View ↗](./S/safe-cars.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Safe Hands Interpreting Limited** | Ledger | [View ↗](./S/safe-hands-interpreting-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Safe Haven Accommodation LTD** | Ledger | [View ↗](./S/safe-haven-accommodation-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Safe Sanctuary Living Ltd** | Ledger | [View ↗](./S/safe-sanctuary-living-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Safer Staffing Solutions** | Ledger | [View ↗](./S/safer-staffing-solutions.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Salisbury Support 4 Autism Ltd** | Ledger | [View ↗](./S/salisbury-support-4-autism-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Sanctuary Care Limited** | Ledger | [View ↗](./S/sanctuary-care-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Sarah Care Ltd** | Ledger | [View ↗](./S/sarah-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Schuchmann LLP** | Ledger | [View ↗](./S/schuchmann-llp.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Seale Pastures** | Ledger | [View ↗](./S/seale-pastures.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Searchlight Care Services Ltd** | Ledger | [View ↗](./S/searchlight-care-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Securitas Security Services (UK)Ltd** | Ledger | [View ↗](./S/securitas-security-services--uk-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Securitas Technology Ltd** | Ledger | [View ↗](./S/securitas-technology-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Sense** | Ledger | [View ↗](./S/sense.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Serenity Housing Support Limited** | Ledger | [View ↗](./S/serenity-housing-support-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Servitech International Limited** | Ledger | [View ↗](./S/servitech-international-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Seven Hills Nursing Home** | Ledger | [View ↗](./S/seven-hills-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Shardlow Manor** | Ledger | [View ↗](./S/shardlow-manor.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Sharon Allsop** | Ledger | [View ↗](./S/sharon-allsop.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Shaws Taxis** | Ledger | [View ↗](./S/shaws-taxis.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Sheffield Hallam University** | Ledger | [View ↗](./S/sheffield-hallam-university.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Sheffield Tachograph & Taillift** | Ledger | [View ↗](./S/sheffield-tachograph---taillift.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Shining Stars Fostering Agency Ltd** | Ledger | [View ↗](./S/shining-stars-fostering-agency-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Shirevale Resource Centre** | Ledger | [View ↗](./S/shirevale-resource-centre.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Shirland Primary School** | Ledger | [View ↗](./S/shirland-primary-school.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Sid’s Taxis** | Ledger | [View ↗](./S/sid---s-taxis.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Siemens Financial** | Ledger | [View ↗](./S/siemens-financial.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Sight Support Derbyshire** | Ledger | [View ↗](./S/sight-support-derbyshire.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Sigma Pharmaceuticals Plc** | Ledger | [View ↗](./S/sigma-pharmaceuticals-plc.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Smalley Pre School Playgroup** | Ledger | [View ↗](./S/smalley-pre-school-playgroup.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Softcat Ltd** | Ledger | [View ↗](./S/softcat-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Solomon House** | Ledger | [View ↗](./S/solomon-house.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Sonic Silver Ltd** | Ledger | [View ↗](./S/sonic-silver-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **South Normanton Community** | Ledger | [View ↗](./S/south-normanton-community.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Special Care Services Ltd** | Ledger | [View ↗](./S/special-care-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Specialist Computer Centres** | Ledger | [View ↗](./S/specialist-computer-centres.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Spencer Grove Care Home** | Ledger | [View ↗](./S/spencer-grove-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Spion Kop Care Home Ltd** | Ledger | [View ↗](./S/spion-kop-care-home-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Spire Lodge Family Centre** | Ledger | [View ↗](./S/spire-lodge-family-centre.md) |
+| 🟢 | `2026-05-11 08:59:54` | **St Christophers Trust** | Ledger | [View ↗](./S/st-christophers-trust.md) |
+| 🟢 | `2026-05-11 08:59:54` | **St Johns Zoe Aindow** | Ledger | [View ↗](./S/st-johns-zoe-aindow.md) |
+| 🟢 | `2026-05-11 08:59:54` | **St Michaels Nursing Home** | Ledger | [View ↗](./S/st-michaels-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **St. Mary s Care Centre** | Ledger | [View ↗](./S/st--mary-s-care-centre.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Stacey Asphalt Ltd** | Ledger | [View ↗](./S/stacey-asphalt-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Stamford Court** | Ledger | [View ↗](./S/stamford-court.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Stanley Grange Care Home** | Ledger | [View ↗](./S/stanley-grange-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Stannah Ltd** | Ledger | [View ↗](./S/stannah-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Stanton Recycling Limited** | Ledger | [View ↗](./S/stanton-recycling-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Star Fostering Ltd** | Ledger | [View ↗](./S/star-fostering-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Steadfast Training Ltd** | Ledger | [View ↗](./S/steadfast-training-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Stoneacre Peugeot** | Ledger | [View ↗](./S/stoneacre-peugeot.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Stoney Knolls Childrens Home Ltd** | Ledger | [View ↗](./S/stoney-knolls-childrens-home-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Stopford Information Systems Ltd** | Ledger | [View ↗](./S/stopford-information-systems-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Strathmore House** | Ledger | [View ↗](./S/strathmore-house.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Sunbeam Fostering Agency Ltd** | Ledger | [View ↗](./S/sunbeam-fostering-agency-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **SureCare (Chesterfield and Worksop)** | Ledger | [View ↗](./S/surecare--chesterfield-and-worksop-.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Swallownest Nursing Home** | Ledger | [View ↗](./S/swallownest-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Sweet Hope House Limited** | Ledger | [View ↗](./S/sweet-hope-house-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **T-Mex Limited** | Ledger | [View ↗](./T/t-mex-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **TECALEMIT WORKSHOP EQUIPMENT LTD** | Ledger | [View ↗](./T/tecalemit-workshop-equipment-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **TM Travel** | Ledger | [View ↗](./T/tm-travel.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Tamsin Grimmer** | Ledger | [View ↗](./T/tamsin-grimmer.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Tarmac Trading Limited** | Ledger | [View ↗](./T/tarmac-trading-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Tarry Hill Residential Home** | Ledger | [View ↗](./T/tarry-hill-residential-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Taxicover T/A Chriss Minicoaches** | Ledger | [View ↗](./T/taxicover-t-a-chriss-minicoaches.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Thalos Care Ltd** | Ledger | [View ↗](./T/thalos-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **The Gables** | Ledger | [View ↗](./T/the-gables.md) |
+| 🟢 | `2026-05-11 08:59:54` | **The Getaway** | Ledger | [View ↗](./T/the-getaway.md) |
+| 🟢 | `2026-05-11 08:59:54` | **The Grange Shirebrooks Ltd** | Ledger | [View ↗](./T/the-grange-shirebrooks-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **The Green Nursing Homes Group** | Ledger | [View ↗](./T/the-green-nursing-homes-group.md) |
+| 🟢 | `2026-05-11 08:59:54` | **The Limes** | Ledger | [View ↗](./T/the-limes.md) |
+| 🟢 | `2026-05-11 08:59:54` | **The Lodge Care Centre** | Ledger | [View ↗](./T/the-lodge-care-centre.md) |
+| 🟢 | `2026-05-11 08:59:54` | **The Vale Care Home** | Ledger | [View ↗](./T/the-vale-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Thomas Bow Ltd** | Ledger | [View ↗](./T/thomas-bow-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Thompsons Solicitors LLP** | Ledger | [View ↗](./T/thompsons-solicitors-llp.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Tm Private Hire** | Ledger | [View ↗](./T/tm-private-hire.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Together Housing Association** | Ledger | [View ↗](./T/together-housing-association.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Trent Court Nursing Home Care fees** | Ledger | [View ↗](./T/trent-court-nursing-home-care-fees.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Trent Motor Traction Co Ltd** | Ledger | [View ↗](./T/trent-motor-traction-co-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Trentbarton** | Ledger | [View ↗](./T/trentbarton.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Trident Housing Association Ltd** | Ledger | [View ↗](./T/trident-housing-association-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **True Fostering Limited** | Ledger | [View ↗](./T/true-fostering-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Tutors and Exams Ltd** | Ledger | [View ↗](./T/tutors-and-exams-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Twyford Care Ltd T/A Twyford Sup** | Ledger | [View ↗](./T/twyford-care-ltd-t-a-twyford-sup.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Txtlocal Ltd T/A Textlocal** | Ledger | [View ↗](./T/txtlocal-ltd-t-a-textlocal.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Tynefield Care Ltd** | Ledger | [View ↗](./T/tynefield-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **UK Plumbing Supplies Ltd** | Ledger | [View ↗](./U/uk-plumbing-supplies-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Ulverscroft Large Print Books Ltd** | Ledger | [View ↗](./U/ulverscroft-large-print-books-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **United Response Services Ltd** | Ledger | [View ↗](./U/united-response-services-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **University Hospitals of Derby&Burto** | Ledger | [View ↗](./U/university-hospitals-of-derby-burto.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Upwards Residential Care Services L** | Ledger | [View ↗](./U/upwards-residential-care-services-l.md) |
+| 🟢 | `2026-05-11 08:59:54` | **VEEZU NORTH Limited** | Ledger | [View ↗](./V/veezu-north-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Valley Care Direct Ltd** | Ledger | [View ↗](./V/valley-care-direct-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Valley Lodge Nursing Home** | Ledger | [View ↗](./V/valley-lodge-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Valorum Care Ltd** | Ledger | [View ↗](./V/valorum-care-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Veolia ES UK Ltd** | Ledger | [View ↗](./V/veolia-es-uk-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Via East Midlands Ltd** | Ledger | [View ↗](./V/via-east-midlands-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Victoria Frost** | Ledger | [View ↗](./V/victoria-frost.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Victoria Street - Chesterfield** | Ledger | [View ↗](./V/victoria-street---chesterfield.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Villas Care Homes Limited** | Ledger | [View ↗](./V/villas-care-homes-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Vital Balance Ltd** | Ledger | [View ↗](./V/vital-balance-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Voice Fostering Ltd** | Ledger | [View ↗](./V/voice-fostering-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Voyage Care** | Ledger | [View ↗](./V/voyage-care.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Voyage Ltd** | Ledger | [View ↗](./V/voyage-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **W V Howe Hardware Ltd** | Ledger | [View ↗](./W/w-v-howe-hardware-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **WEF Care** | Ledger | [View ↗](./W/wef-care.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Wainfleet Care Home** | Ledger | [View ↗](./W/wainfleet-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Wallfield House Residential Home** | Ledger | [View ↗](./W/wallfield-house-residential-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Water Plus Limited** | Ledger | [View ↗](./W/water-plus-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Waterman Aspen Ltd** | Ledger | [View ↗](./W/waterman-aspen-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Watford House Nursing Home** | Ledger | [View ↗](./W/watford-house-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Weightmans LLP** | Ledger | [View ↗](./W/weightmans-llp.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Welbeck Estates Co Ltd** | Ledger | [View ↗](./W/welbeck-estates-co-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Wellbeing Clinics Uk Ltd** | Ledger | [View ↗](./W/wellbeing-clinics-uk-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Welltex LTD** | Ledger | [View ↗](./W/welltex-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Wessex Lift Company** | Ledger | [View ↗](./W/wessex-lift-company.md) |
+| 🟢 | `2026-05-11 08:59:54` | **West Park School** | Ledger | [View ↗](./W/west-park-school.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Western Cars Company Derby Ltd** | Ledger | [View ↗](./W/western-cars-company-derby-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Western Mount Lodge** | Ledger | [View ↗](./W/western-mount-lodge.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Wheelplant Ltd** | Ledger | [View ↗](./W/wheelplant-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **White Orchid Care Marston Moretaine** | Ledger | [View ↗](./W/white-orchid-care-marston-moretaine.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Whittington Care Centre** | Ledger | [View ↗](./W/whittington-care-centre.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Whitworks Adventures in Theatre** | Ledger | [View ↗](./W/whitworks-adventures-in-theatre.md) |
+| 🟢 | `2026-05-11 08:59:54` | **William Freer Limited** | Ledger | [View ↗](./W/william-freer-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **William Henry Smith School** | Ledger | [View ↗](./W/william-henry-smith-school.md) |
+| 🟢 | `2026-05-11 08:59:54` | **William Twigg Matlock Ltd** | Ledger | [View ↗](./W/william-twigg-matlock-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Willows Care Home** | Ledger | [View ↗](./W/willows-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Willows Residential Care Home** | Ledger | [View ↗](./W/willows-residential-care-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Willowstone Care** | Ledger | [View ↗](./W/willowstone-care.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Woodlands Nursing Home** | Ledger | [View ↗](./W/woodlands-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Woodville Nursing Home** | Ledger | [View ↗](./W/woodville-nursing-home.md) |
+| 🟢 | `2026-05-11 08:59:54` | **YESSS A Electrical Ltd** | Ledger | [View ↗](./Y/yesss-a-electrical-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Your Chapter Limited** | Ledger | [View ↗](./Y/your-chapter-limited.md) |
+| 🟢 | `2026-05-11 08:59:54` | **Your Health Ltd** | Ledger | [View ↗](./Y/your-health-ltd.md) |
+| 🟢 | `2026-05-11 08:59:54` | **one time-individual-CHAPS** | Ledger | [View ↗](./O/one-time-individual-chaps.md) |
 
 
 ---
