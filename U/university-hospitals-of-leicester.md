@@ -1,0 +1,76 @@
+﻿---
+- title: "Derbyshire County Council - Expenses - January 2025 - Supplier Dossier: University Hospitals Of Leicester"
+- entity_id: "University Hospitals Of Leicester"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-05-11T14:04:22+00:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: UNIVERSITY HOSPITALS OF LEICESTER
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £3,316.92
+- **Invoice Frequency**: 2 payments processed
+- **Mean Transaction Value**: £1,658.46
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: monthly-report-january-2025-spending-over-500-county-fund.csv ]
+- [REF: Derbyshire Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.derbyshire.gov.uk/site-elements/documents/csv/council/spending/2025/monthly-report-january-2025-spending-over-500-county-fund.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £3,316.92
+- **Transaction Volume**: 2 Invoices
+- **Lead Department**: Non Distributed Costs
+- **Departmental Reach**: Active in 1 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: monthly-report-january-2025-spending-over-500-county-fund.csv ]
+- [REF: Derbyshire Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.derbyshire.gov.uk/site-elements/documents/csv/council/spending/2025/monthly-report-january-2025-spending-over-500-county-fund.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **1** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | Non Distributed Costs | £3,317 | 100.0% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: monthly-report-january-2025-spending-over-500-county-fund.csv ]
+- [REF: Derbyshire Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.derbyshire.gov.uk/site-elements/documents/csv/council/spending/2025/monthly-report-january-2025-spending-over-500-county-fund.csv ]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £1653.4 to University Hospitals Of Leicester (Non Distributed Costs)
+- Paid £1663.52 to University Hospitals Of Leicester (Non Distributed Costs)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: monthly-report-january-2025-spending-over-500-county-fund.csv ]
+- [REF: Derbyshire Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.derbyshire.gov.uk/site-elements/documents/csv/council/spending/2025/monthly-report-january-2025-spending-over-500-county-fund.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+| `08/01/2025` | 1 | £1,653.40 | `*****` |
+|  `23/01/2025` | 1 | £1,663.52 | `*****` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: monthly-report-january-2025-spending-over-500-county-fund.csv ]
+- [REF: Derbyshire Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.derbyshire.gov.uk/site-elements/documents/csv/council/spending/2025/monthly-report-january-2025-spending-over-500-county-fund.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
